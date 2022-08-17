@@ -1,1 +1,1 @@
-* Shift Method is OP i guess can be applied to many more questions.
+​
