@@ -48,7 +48,7 @@ class Compute
     public long[] printFirstNegativeInteger(long A[], int N, int K)
     {
 
-        Deque<Integer> dq = new ArrayDeque<>();
+        Queue<Integer> q  = new LinkedList<>();
         long result []    = new long [N-K+1];
         int i = 0; int j  = 0;
         
@@ -58,7 +58,7 @@ class Compute
             {
                 if (A[j] < 0 )
                 {
-                    dq.add(j);
+                    q.add(j);
                 }
                 j += 1;
             }
@@ -66,20 +66,20 @@ class Compute
             {
                 if ( A[j] < 0 )
                 {
-                    dq.add(j);
+                    q.add(j);
                 }
-                if (dq.size()==0)
+                if (q.size()==0)
                 {
                     result[i] = 0;
                 }    
                 else
                 {
-                    result[i] = A[dq.peek()];
+                    result[i] = A[q.peek()];
                 }
                 
-                if (!dq.isEmpty() && i == dq.peek())
+                if (!q.isEmpty() && i == q.peek())
                     {
-                        dq.remove();
+                        q.remove();
                     }
                 i += 1;
                 j += 1;
