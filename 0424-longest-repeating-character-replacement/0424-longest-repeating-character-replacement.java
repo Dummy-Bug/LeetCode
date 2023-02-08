@@ -1,54 +1,45 @@
-class Solution 
-{
+class Solution {
     public int characterReplacement(String s, int k) 
     {
-        int lo = 1;
-        int hi = s.length();
-        int result = 0;
-        
-        while (lo <= hi) {
-            int mid = lo + (hi - lo) / 2;
+        HashSet<Character> allLetters = new HashSet();
 
-            // can we make a valid substring of length `mid`?
-            if (canMakeValidSubstring(s, mid, k)) 
+        // collect all unique letters
+        for (int i = 0; i < s.length(); i++) {
+            allLetters.add(s.charAt(i));
+        }
+
+        int maxLength = 0;
+        for (Character letter : allLetters) 
+        {
+            int start = 0;
+            int count = 0;
+            // initialize a sliding window for each unique letter
+            for (int end = 0; end < s.length(); end += 1) 
             {
-                // explore the right half
-                lo = mid+1;
-                result = mid;
-            } 
-            else 
-            {
-                // explore the left half
-                hi = mid-1;
+                if (s.charAt(end) == letter) 
+                {
+                    // if the letter matches, increase the count
+                    count += 1;
+                }
+                // bring start forward until the window is valid again
+                while (!isWindowValid(start, end, count, k)) 
+                {
+                    if (s.charAt(start) == letter) 
+                    {
+                        // if the letter matches, decrease the count
+                        count -= 1;
+                    }
+                    start += 1;
+                }
+                // at this point the window is valid, update maxLength
+                maxLength = Math.max(maxLength, end + 1 - start);
             }
         }
-        return result;
+        return maxLength;
     }
 
-    private Boolean canMakeValidSubstring(
-            String s,
-            int substringLength,
-            int k) {
-
-        int[] freqMap = new int[26];
-        int maxFrequency = 0;
-        int start = 0;
-        for (int end = 0; end < s.length(); end += 1) 
-        {
-            freqMap[s.charAt(end) - 'A'] += 1;
-
-            if (end-start+1 > substringLength) 
-            {
-                freqMap[s.charAt(start) - 'A'] -= 1;
-                start += 1;
-            }
-
-            maxFrequency = Math.max(maxFrequency, freqMap[s.charAt(end) - 'A']);
-            if (substringLength - maxFrequency <= k) 
-            {
-                return true;
-            }
-        }
-        return false;
+    private Boolean isWindowValid(int start, int end, int count, int k)
+    {
+        return end + 1 - start - count <= k;
     }
 }
