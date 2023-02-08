@@ -1,45 +1,40 @@
 class Solution {
-    public int characterReplacement(String s, int k) 
-    {
-        HashSet<Character> allLetters = new HashSet();
+    public int characterReplacement(String s, int k) {
+        int start = 0;
+        int[] frequencyMap = new int[26];
+        int maxFrequency = 0;
+        int longestSubstringLength = 0;
 
-        // collect all unique letters
-        for (int i = 0; i < s.length(); i++) {
-            allLetters.add(s.charAt(i));
-        }
+        for (int end = 0; end < s.length(); end += 1) {
+            // if 'A' is 0, then what is the relative order
+            // or offset of the current character entering the window
+            // 0 is 'A', 1 is 'B' and so on
+            int currentChar = s.charAt(end) - 'A';
 
-        int maxLength = 0;
-        for (Character letter : allLetters) 
-        {
-            int start = 0;
-            int count = 0;
-            // initialize a sliding window for each unique letter
-            for (int end = 0; end < s.length(); end += 1) 
-            {
-                if (s.charAt(end) == letter) 
-                {
-                    // if the letter matches, increase the count
-                    count += 1;
-                }
-                // bring start forward until the window is valid again
-                while (!isWindowValid(start, end, count, k)) 
-                {
-                    if (s.charAt(start) == letter) 
-                    {
-                        // if the letter matches, decrease the count
-                        count -= 1;
-                    }
-                    start += 1;
-                }
-                // at this point the window is valid, update maxLength
-                maxLength = Math.max(maxLength, end + 1 - start);
+            frequencyMap[currentChar] += 1;
+
+            // the maximum frequency we have seen in any window yet
+            maxFrequency = Math.max(maxFrequency, frequencyMap[currentChar]);
+
+            // move the start pointer towards right if the current
+            // window is invalid
+            Boolean isValid = (end + 1 - start - maxFrequency <= k);
+            if (!isValid) {
+                // offset of the character moving out of the window
+                int outgoingChar = s.charAt(start) - 'A';
+
+                // decrease its frequency
+                frequencyMap[outgoingChar] -= 1;
+
+                // move the start pointer forward
+                start += 1;
             }
-        }
-        return maxLength;
-    }
 
-    private Boolean isWindowValid(int start, int end, int count, int k)
-    {
-        return end + 1 - start - count <= k;
+            // the window is valid at this point, note down the length
+            // size of the window never decreases
+            longestSubstringLength = end + 1 - start;
+        }
+
+        return longestSubstringLength;
     }
 }
