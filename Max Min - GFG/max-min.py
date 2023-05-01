@@ -21,7 +21,7 @@ class Solution:
             else:
                 minValue = min(minValue,A[i+1]);
                 maxValue = max(maxValue,A[i]);
-            # print(minValue,maxValue,i)
+
             i += 2;
         return minValue+maxValue;
 
