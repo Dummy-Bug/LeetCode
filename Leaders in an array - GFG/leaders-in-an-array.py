@@ -8,7 +8,7 @@ class Solution:
             if A[i] >= currMax:
                 leaders.append(A[i]);
                 currMax = A[i];
-        return reversed(leade;
+        return reversed(leaders);
     
     def reversed(self,leaders):
         
