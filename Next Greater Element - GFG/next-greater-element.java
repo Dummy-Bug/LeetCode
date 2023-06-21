@@ -28,7 +28,6 @@ class GFG {
 
 // } Driver Code Ends
 
-
 class Solution
 {
     //Function to find the next greater element for each element of the array.
