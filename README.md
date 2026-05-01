@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [3407-substring-matching-pattern](https://github.com/Dummy-Bug/LeetCode/tree/master/3407-substring-matching-pattern) |
 | [3713-longest-balanced-substring-i](https://github.com/Dummy-Bug/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3853-merge-close-characters](https://github.com/Dummy-Bug/LeetCode/tree/master/3853-merge-close-characters) |
 ## Sorting
@@ -107,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3638-maximum-balanced-shipments](https://github.com/Dummy-Bug/LeetCode/tree/master/3638-maximum-balanced-shipments) |
+## String Matching
+|  |
+| ------- |
+| [3407-substring-matching-pattern](https://github.com/Dummy-Bug/LeetCode/tree/master/3407-substring-matching-pattern) |
 <!---LeetCode Topics End-->
