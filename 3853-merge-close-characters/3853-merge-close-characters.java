@@ -1,35 +1,27 @@
 class Solution {
     public String mergeCharacters(String s, int k) {
         
-        List<Character> mergedChars = new ArrayList<>();
-        Map<Character,Integer> map = new HashMap<>();
+        StringBuilder mergedChars = new StringBuilder();
+        Map<Character, Integer> map = new HashMap<>();
 
-        for(int i = 0; i < s.length();i++){
-
+        for (int i = 0; i < s.length(); i++) {
             char ch = s.charAt(i);
-            int size = mergedChars.size();
+            int size = mergedChars.length();
 
-            if (!map.containsKey(ch)){
-                map.put(ch,size);
-                mergedChars.add(ch);
-            }
-            else{
+            if (!map.containsKey(ch)) {
+                map.put(ch, size);
+                mergedChars.append(ch);
+            } else {
                 int effectiveIndex = map.get(ch);
                 int difference = size - effectiveIndex;
 
-                if(difference>k){
-                    map.put(ch,size);
-                    mergedChars.add(ch);
+                if (difference > k) {
+                    map.put(ch, size);
+                    mergedChars.append(ch);
                 }
             }
-
         }
 
-        char[] resultArray = new char[mergedChars.size()];
-        for (int i = 0; i < mergedChars.size();i++){
-            resultArray[i] = mergedChars.get(i);
-        }
-        return new String(resultArray);
-        
+        return mergedChars.toString();
     }
 }
