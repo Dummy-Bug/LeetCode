@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Dummy-Bug/LeetCode/tree/master/0001-two-sum) |
 | [0740-delete-and-earn](https://github.com/Dummy-Bug/LeetCode/tree/master/0740-delete-and-earn) |
+| [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/Dummy-Bug/LeetCode/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
 | [3355-zero-array-transformation-i](https://github.com/Dummy-Bug/LeetCode/tree/master/3355-zero-array-transformation-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Dummy-Bug/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3531-count-covered-buildings](https://github.com/Dummy-Bug/LeetCode/tree/master/3531-count-covered-buildings) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/Dummy-Bug/LeetCode/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Dummy-Bug/LeetCode/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 ## Math
 |  |
