@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/Dummy-Bug/LeetCode/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Dummy-Bug/LeetCode/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Dummy-Bug/LeetCode/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
+| [3799-word-squares-ii](https://github.com/Dummy-Bug/LeetCode/tree/master/3799-word-squares-ii) |
 | [3810-minimum-operations-to-reach-target-array](https://github.com/Dummy-Bug/LeetCode/tree/master/3810-minimum-operations-to-reach-target-array) |
 | [3824-minimum-k-to-reduce-array-within-limit](https://github.com/Dummy-Bug/LeetCode/tree/master/3824-minimum-k-to-reduce-array-within-limit) |
 | [3828-final-element-after-subarray-deletions](https://github.com/Dummy-Bug/LeetCode/tree/master/3828-final-element-after-subarray-deletions) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/Dummy-Bug/LeetCode/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
 | [3407-substring-matching-pattern](https://github.com/Dummy-Bug/LeetCode/tree/master/3407-substring-matching-pattern) |
 | [3713-longest-balanced-substring-i](https://github.com/Dummy-Bug/LeetCode/tree/master/3713-longest-balanced-substring-i) |
+| [3799-word-squares-ii](https://github.com/Dummy-Bug/LeetCode/tree/master/3799-word-squares-ii) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/Dummy-Bug/LeetCode/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
 | [3853-merge-close-characters](https://github.com/Dummy-Bug/LeetCode/tree/master/3853-merge-close-characters) |
 ## Sorting
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Dummy-Bug/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Dummy-Bug/LeetCode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Dummy-Bug/LeetCode/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
+| [3799-word-squares-ii](https://github.com/Dummy-Bug/LeetCode/tree/master/3799-word-squares-ii) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Dummy-Bug/LeetCode/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## Counting
 |  |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Dummy-Bug/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3713-longest-balanced-substring-i](https://github.com/Dummy-Bug/LeetCode/tree/master/3713-longest-balanced-substring-i) |
+| [3799-word-squares-ii](https://github.com/Dummy-Bug/LeetCode/tree/master/3799-word-squares-ii) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Dummy-Bug/LeetCode/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## Recursion
 |  |
@@ -189,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3528-unit-conversion-i](https://github.com/Dummy-Bug/LeetCode/tree/master/3528-unit-conversion-i) |
+## Backtracking
+|  |
+| ------- |
+| [3799-word-squares-ii](https://github.com/Dummy-Bug/LeetCode/tree/master/3799-word-squares-ii) |
 <!---LeetCode Topics End-->
