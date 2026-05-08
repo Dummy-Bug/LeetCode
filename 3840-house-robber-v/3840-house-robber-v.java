@@ -3,26 +3,25 @@ class Solution {
 
         int n = nums.length;
         long [] dp = new long[n];
-        Arrays.fill(dp,-1);
+        dp[0] = nums[0];
 
-        return helper(nums,colors,dp,n-1);
-        
-    }
+        for (int i = 1; i < n; i++){
+            long skip = dp[i-1];
+            long take = 0l;
 
-    private long helper(int[] nums, int[] colors, long[] dp , int index){
-        if (index < 0){return 0l;}
-
-        if (dp[index] != -1){return dp[index];}
-
-        long skip = helper(nums,colors,dp,index-1);
-        long take = 0l;
-
-        if (index != 0 && colors[index] != colors[index-1]){
-            take = nums[index] + helper(nums,colors,dp,index-1);
-        }else{
-            take = nums[index] + helper(nums,colors,dp,index-2);
+            if (colors[i] != colors[i-1]){
+                take = nums[i] + dp[i-1];
+            }else {
+                if (i == 1){
+                    take = nums[i];
+                }else{
+                    take = nums[i] + dp[i-2];
+                }
+            }
+            dp[i] = Math.max(take,skip);
         }
-        dp[index] = Math.max(skip,take);
-        return dp[index];
+
+        return dp[n-1];
+
     }
 }
