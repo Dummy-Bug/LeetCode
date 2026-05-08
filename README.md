@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3810-minimum-operations-to-reach-target-array](https://github.com/Dummy-Bug/LeetCode/tree/master/3810-minimum-operations-to-reach-target-array) |
 | [3824-minimum-k-to-reduce-array-within-limit](https://github.com/Dummy-Bug/LeetCode/tree/master/3824-minimum-k-to-reduce-array-within-limit) |
 | [3828-final-element-after-subarray-deletions](https://github.com/Dummy-Bug/LeetCode/tree/master/3828-final-element-after-subarray-deletions) |
+| [3840-house-robber-v](https://github.com/Dummy-Bug/LeetCode/tree/master/3840-house-robber-v) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/Dummy-Bug/LeetCode/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 ## Hash Table
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0740-delete-and-earn](https://github.com/Dummy-Bug/LeetCode/tree/master/0740-delete-and-earn) |
 | [3638-maximum-balanced-shipments](https://github.com/Dummy-Bug/LeetCode/tree/master/3638-maximum-balanced-shipments) |
+| [3840-house-robber-v](https://github.com/Dummy-Bug/LeetCode/tree/master/3840-house-robber-v) |
 ## Biconnected Component
 |  |
 | ------- |
