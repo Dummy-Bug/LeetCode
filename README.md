@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Dummy-Bug/LeetCode/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Dummy-Bug/LeetCode/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3799-word-squares-ii](https://github.com/Dummy-Bug/LeetCode/tree/master/3799-word-squares-ii) |
+| [3805-count-caesar-cipher-pairs](https://github.com/Dummy-Bug/LeetCode/tree/master/3805-count-caesar-cipher-pairs) |
 | [3810-minimum-operations-to-reach-target-array](https://github.com/Dummy-Bug/LeetCode/tree/master/3810-minimum-operations-to-reach-target-array) |
 | [3824-minimum-k-to-reduce-array-within-limit](https://github.com/Dummy-Bug/LeetCode/tree/master/3824-minimum-k-to-reduce-array-within-limit) |
 | [3828-final-element-after-subarray-deletions](https://github.com/Dummy-Bug/LeetCode/tree/master/3828-final-element-after-subarray-deletions) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Dummy-Bug/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3790-smallest-all-ones-multiple](https://github.com/Dummy-Bug/LeetCode/tree/master/3790-smallest-all-ones-multiple) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Dummy-Bug/LeetCode/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
+| [3805-count-caesar-cipher-pairs](https://github.com/Dummy-Bug/LeetCode/tree/master/3805-count-caesar-cipher-pairs) |
 | [3810-minimum-operations-to-reach-target-array](https://github.com/Dummy-Bug/LeetCode/tree/master/3810-minimum-operations-to-reach-target-array) |
 | [3853-merge-close-characters](https://github.com/Dummy-Bug/LeetCode/tree/master/3853-merge-close-characters) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/Dummy-Bug/LeetCode/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3407-substring-matching-pattern](https://github.com/Dummy-Bug/LeetCode/tree/master/3407-substring-matching-pattern) |
 | [3713-longest-balanced-substring-i](https://github.com/Dummy-Bug/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3799-word-squares-ii](https://github.com/Dummy-Bug/LeetCode/tree/master/3799-word-squares-ii) |
+| [3805-count-caesar-cipher-pairs](https://github.com/Dummy-Bug/LeetCode/tree/master/3805-count-caesar-cipher-pairs) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/Dummy-Bug/LeetCode/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
 | [3853-merge-close-characters](https://github.com/Dummy-Bug/LeetCode/tree/master/3853-merge-close-characters) |
 ## Sorting
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3137-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/Dummy-Bug/LeetCode/tree/master/3137-minimum-number-of-operations-to-make-word-k-periodic) |
 | [3583-count-special-triplets](https://github.com/Dummy-Bug/LeetCode/tree/master/3583-count-special-triplets) |
 | [3713-longest-balanced-substring-i](https://github.com/Dummy-Bug/LeetCode/tree/master/3713-longest-balanced-substring-i) |
+| [3805-count-caesar-cipher-pairs](https://github.com/Dummy-Bug/LeetCode/tree/master/3805-count-caesar-cipher-pairs) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/Dummy-Bug/LeetCode/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Dummy-Bug/LeetCode/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## Enumeration
@@ -174,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/Dummy-Bug/LeetCode/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Dummy-Bug/LeetCode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3790-smallest-all-ones-multiple](https://github.com/Dummy-Bug/LeetCode/tree/master/3790-smallest-all-ones-multiple) |
+| [3805-count-caesar-cipher-pairs](https://github.com/Dummy-Bug/LeetCode/tree/master/3805-count-caesar-cipher-pairs) |
 | [3828-final-element-after-subarray-deletions](https://github.com/Dummy-Bug/LeetCode/tree/master/3828-final-element-after-subarray-deletions) |
 ## Binary Search
 |  |
