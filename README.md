@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3576-transform-array-to-all-equal-elements](https://github.com/Dummy-Bug/LeetCode/tree/master/3576-transform-array-to-all-equal-elements) |
 | [3583-count-special-triplets](https://github.com/Dummy-Bug/LeetCode/tree/master/3583-count-special-triplets) |
 | [3638-maximum-balanced-shipments](https://github.com/Dummy-Bug/LeetCode/tree/master/3638-maximum-balanced-shipments) |
+| [3698-split-array-with-minimum-difference](https://github.com/Dummy-Bug/LeetCode/tree/master/3698-split-array-with-minimum-difference) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Dummy-Bug/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3719-longest-balanced-subarray-i](https://github.com/Dummy-Bug/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Dummy-Bug/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3355-zero-array-transformation-i](https://github.com/Dummy-Bug/LeetCode/tree/master/3355-zero-array-transformation-i) |
+| [3698-split-array-with-minimum-difference](https://github.com/Dummy-Bug/LeetCode/tree/master/3698-split-array-with-minimum-difference) |
 | [3719-longest-balanced-subarray-i](https://github.com/Dummy-Bug/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 ## Bit Manipulation
 |  |
