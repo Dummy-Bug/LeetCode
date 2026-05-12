@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Dummy-Bug/LeetCode/tree/master/0001-two-sum) |
 | [0740-delete-and-earn](https://github.com/Dummy-Bug/LeetCode/tree/master/0740-delete-and-earn) |
+| [3153-sum-of-digit-differences-of-all-pairs](https://github.com/Dummy-Bug/LeetCode/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/Dummy-Bug/LeetCode/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
 | [3355-zero-array-transformation-i](https://github.com/Dummy-Bug/LeetCode/tree/master/3355-zero-array-transformation-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Dummy-Bug/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Dummy-Bug/LeetCode/tree/master/0001-two-sum) |
 | [0740-delete-and-earn](https://github.com/Dummy-Bug/LeetCode/tree/master/0740-delete-and-earn) |
 | [3137-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/Dummy-Bug/LeetCode/tree/master/3137-minimum-number-of-operations-to-make-word-k-periodic) |
+| [3153-sum-of-digit-differences-of-all-pairs](https://github.com/Dummy-Bug/LeetCode/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/Dummy-Bug/LeetCode/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Dummy-Bug/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3531-count-covered-buildings](https://github.com/Dummy-Bug/LeetCode/tree/master/3531-count-covered-buildings) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3137-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/Dummy-Bug/LeetCode/tree/master/3137-minimum-number-of-operations-to-make-word-k-periodic) |
+| [3153-sum-of-digit-differences-of-all-pairs](https://github.com/Dummy-Bug/LeetCode/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3583-count-special-triplets](https://github.com/Dummy-Bug/LeetCode/tree/master/3583-count-special-triplets) |
 | [3679-minimum-discards-to-balance-inventory](https://github.com/Dummy-Bug/LeetCode/tree/master/3679-minimum-discards-to-balance-inventory) |
 | [3713-longest-balanced-substring-i](https://github.com/Dummy-Bug/LeetCode/tree/master/3713-longest-balanced-substring-i) |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [3153-sum-of-digit-differences-of-all-pairs](https://github.com/Dummy-Bug/LeetCode/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Dummy-Bug/LeetCode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/Dummy-Bug/LeetCode/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Dummy-Bug/LeetCode/tree/master/3789-minimum-cost-to-acquire-required-items) |
