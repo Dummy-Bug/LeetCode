@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Dummy-Bug/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Dummy-Bug/LeetCode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Dummy-Bug/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Dummy-Bug/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/Dummy-Bug/LeetCode/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Dummy-Bug/LeetCode/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Dummy-Bug/LeetCode/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3713-longest-balanced-substring-i](https://github.com/Dummy-Bug/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Dummy-Bug/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Dummy-Bug/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Dummy-Bug/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3790-smallest-all-ones-multiple](https://github.com/Dummy-Bug/LeetCode/tree/master/3790-smallest-all-ones-multiple) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Dummy-Bug/LeetCode/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3805-count-caesar-cipher-pairs](https://github.com/Dummy-Bug/LeetCode/tree/master/3805-count-caesar-cipher-pairs) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/Dummy-Bug/LeetCode/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Dummy-Bug/LeetCode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Dummy-Bug/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/Dummy-Bug/LeetCode/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Dummy-Bug/LeetCode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3790-smallest-all-ones-multiple](https://github.com/Dummy-Bug/LeetCode/tree/master/3790-smallest-all-ones-multiple) |
