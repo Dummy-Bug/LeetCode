@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Dummy-Bug/LeetCode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Dummy-Bug/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Dummy-Bug/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Dummy-Bug/LeetCode/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/Dummy-Bug/LeetCode/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Dummy-Bug/LeetCode/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Dummy-Bug/LeetCode/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Dummy-Bug/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Dummy-Bug/LeetCode/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/Dummy-Bug/LeetCode/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
 ## Stack
 |  |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Dummy-Bug/LeetCode/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3824-minimum-k-to-reduce-array-within-limit](https://github.com/Dummy-Bug/LeetCode/tree/master/3824-minimum-k-to-reduce-array-within-limit) |
 ## Number Theory
 |  |
@@ -225,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3679-minimum-discards-to-balance-inventory](https://github.com/Dummy-Bug/LeetCode/tree/master/3679-minimum-discards-to-balance-inventory) |
+## Two Pointers
+|  |
+| ------- |
+| [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Dummy-Bug/LeetCode/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 <!---LeetCode Topics End-->
