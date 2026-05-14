@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3824-minimum-k-to-reduce-array-within-limit](https://github.com/Dummy-Bug/LeetCode/tree/master/3824-minimum-k-to-reduce-array-within-limit) |
 | [3828-final-element-after-subarray-deletions](https://github.com/Dummy-Bug/LeetCode/tree/master/3828-final-element-after-subarray-deletions) |
 | [3840-house-robber-v](https://github.com/Dummy-Bug/LeetCode/tree/master/3840-house-robber-v) |
+| [3862-find-the-smallest-balanced-index](https://github.com/Dummy-Bug/LeetCode/tree/master/3862-find-the-smallest-balanced-index) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/Dummy-Bug/LeetCode/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 ## Hash Table
 |  |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3355-zero-array-transformation-i](https://github.com/Dummy-Bug/LeetCode/tree/master/3355-zero-array-transformation-i) |
 | [3698-split-array-with-minimum-difference](https://github.com/Dummy-Bug/LeetCode/tree/master/3698-split-array-with-minimum-difference) |
 | [3719-longest-balanced-subarray-i](https://github.com/Dummy-Bug/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
+| [3862-find-the-smallest-balanced-index](https://github.com/Dummy-Bug/LeetCode/tree/master/3862-find-the-smallest-balanced-index) |
 ## Bit Manipulation
 |  |
 | ------- |
