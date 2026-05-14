@@ -17,10 +17,12 @@ class Solution {
             if (sum == product){
                 smallestIndex = i;
             }
-            if ((sum < product) || (product > sum/nums[i])){
+            if (sum < product){
                 break;
             }
-            
+            if (product > sum/nums[i]){
+                break;
+                }
             product = product * nums[i];
         }
 
