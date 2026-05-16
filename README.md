@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3840-house-robber-v](https://github.com/Dummy-Bug/LeetCode/tree/master/3840-house-robber-v) |
 | [3862-find-the-smallest-balanced-index](https://github.com/Dummy-Bug/LeetCode/tree/master/3862-find-the-smallest-balanced-index) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/Dummy-Bug/LeetCode/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
+| [3877-minimum-removals-to-achieve-target-xor](https://github.com/Dummy-Bug/LeetCode/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 | [3905-multi-source-flood-fill](https://github.com/Dummy-Bug/LeetCode/tree/master/3905-multi-source-flood-fill) |
 ## Hash Table
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/Dummy-Bug/LeetCode/tree/master/0740-delete-and-earn) |
 | [3638-maximum-balanced-shipments](https://github.com/Dummy-Bug/LeetCode/tree/master/3638-maximum-balanced-shipments) |
 | [3840-house-robber-v](https://github.com/Dummy-Bug/LeetCode/tree/master/3840-house-robber-v) |
+| [3877-minimum-removals-to-achieve-target-xor](https://github.com/Dummy-Bug/LeetCode/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 ## Biconnected Component
 |  |
 | ------- |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Dummy-Bug/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Dummy-Bug/LeetCode/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/Dummy-Bug/LeetCode/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
+| [3877-minimum-removals-to-achieve-target-xor](https://github.com/Dummy-Bug/LeetCode/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 ## Stack
 |  |
 | ------- |
