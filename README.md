@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3355-zero-array-transformation-i](https://github.com/Dummy-Bug/LeetCode/tree/master/3355-zero-array-transformation-i) |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/Dummy-Bug/LeetCode/tree/master/3371-identify-the-largest-outlier-in-an-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Dummy-Bug/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3488-closest-equal-element-queries](https://github.com/Dummy-Bug/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Dummy-Bug/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3531-count-covered-buildings](https://github.com/Dummy-Bug/LeetCode/tree/master/3531-count-covered-buildings) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Dummy-Bug/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/Dummy-Bug/LeetCode/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/Dummy-Bug/LeetCode/tree/master/3371-identify-the-largest-outlier-in-an-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Dummy-Bug/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3488-closest-equal-element-queries](https://github.com/Dummy-Bug/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3531-count-covered-buildings](https://github.com/Dummy-Bug/LeetCode/tree/master/3531-count-covered-buildings) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Dummy-Bug/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3583-count-special-triplets](https://github.com/Dummy-Bug/LeetCode/tree/master/3583-count-special-triplets) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [3488-closest-equal-element-queries](https://github.com/Dummy-Bug/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Dummy-Bug/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Dummy-Bug/LeetCode/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3824-minimum-k-to-reduce-array-within-limit](https://github.com/Dummy-Bug/LeetCode/tree/master/3824-minimum-k-to-reduce-array-within-limit) |
