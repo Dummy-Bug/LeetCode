@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/Dummy-Bug/LeetCode/tree/master/0744-network-delay-time) |
+| [3767-maximize-points-after-choosing-k-tasks](https://github.com/Dummy-Bug/LeetCode/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Dummy-Bug/LeetCode/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 ## Shortest Path
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Dummy-Bug/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Dummy-Bug/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Dummy-Bug/LeetCode/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
+| [3767-maximize-points-after-choosing-k-tasks](https://github.com/Dummy-Bug/LeetCode/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/Dummy-Bug/LeetCode/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Dummy-Bug/LeetCode/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Dummy-Bug/LeetCode/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3638-maximum-balanced-shipments](https://github.com/Dummy-Bug/LeetCode/tree/master/3638-maximum-balanced-shipments) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Dummy-Bug/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Dummy-Bug/LeetCode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
+| [3767-maximize-points-after-choosing-k-tasks](https://github.com/Dummy-Bug/LeetCode/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Dummy-Bug/LeetCode/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Dummy-Bug/LeetCode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3810-minimum-operations-to-reach-target-array](https://github.com/Dummy-Bug/LeetCode/tree/master/3810-minimum-operations-to-reach-target-array) |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3531-count-covered-buildings](https://github.com/Dummy-Bug/LeetCode/tree/master/3531-count-covered-buildings) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Dummy-Bug/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Dummy-Bug/LeetCode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
+| [3767-maximize-points-after-choosing-k-tasks](https://github.com/Dummy-Bug/LeetCode/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Dummy-Bug/LeetCode/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3799-word-squares-ii](https://github.com/Dummy-Bug/LeetCode/tree/master/3799-word-squares-ii) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Dummy-Bug/LeetCode/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
