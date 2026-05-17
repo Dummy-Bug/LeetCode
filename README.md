@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0744-network-delay-time](https://github.com/Dummy-Bug/LeetCode/tree/master/0744-network-delay-time) |
 | [3528-unit-conversion-i](https://github.com/Dummy-Bug/LeetCode/tree/master/3528-unit-conversion-i) |
+| [3820-pythagorean-distance-nodes-in-a-tree](https://github.com/Dummy-Bug/LeetCode/tree/master/3820-pythagorean-distance-nodes-in-a-tree) |
 | [3905-multi-source-flood-fill](https://github.com/Dummy-Bug/LeetCode/tree/master/3905-multi-source-flood-fill) |
 ## Graph
 |  |
@@ -259,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Dummy-Bug/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Tree
+|  |
+| ------- |
+| [3820-pythagorean-distance-nodes-in-a-tree](https://github.com/Dummy-Bug/LeetCode/tree/master/3820-pythagorean-distance-nodes-in-a-tree) |
 <!---LeetCode Topics End-->
