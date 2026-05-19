@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3805-count-caesar-cipher-pairs](https://github.com/Dummy-Bug/LeetCode/tree/master/3805-count-caesar-cipher-pairs) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/Dummy-Bug/LeetCode/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
 | [3853-merge-close-characters](https://github.com/Dummy-Bug/LeetCode/tree/master/3853-merge-close-characters) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Dummy-Bug/LeetCode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Sorting
 |  |
 | ------- |
