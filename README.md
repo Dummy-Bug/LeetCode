@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/Dummy-Bug/LeetCode/tree/master/0744-network-delay-time) |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/Dummy-Bug/LeetCode/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Dummy-Bug/LeetCode/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
+| [3781-maximum-score-after-binary-swaps](https://github.com/Dummy-Bug/LeetCode/tree/master/3781-maximum-score-after-binary-swaps) |
 ## Shortest Path
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/Dummy-Bug/LeetCode/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/Dummy-Bug/LeetCode/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Dummy-Bug/LeetCode/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
+| [3781-maximum-score-after-binary-swaps](https://github.com/Dummy-Bug/LeetCode/tree/master/3781-maximum-score-after-binary-swaps) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Dummy-Bug/LeetCode/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3799-word-squares-ii](https://github.com/Dummy-Bug/LeetCode/tree/master/3799-word-squares-ii) |
 | [3805-count-caesar-cipher-pairs](https://github.com/Dummy-Bug/LeetCode/tree/master/3805-count-caesar-cipher-pairs) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Dummy-Bug/LeetCode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/Dummy-Bug/LeetCode/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Dummy-Bug/LeetCode/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
+| [3781-maximum-score-after-binary-swaps](https://github.com/Dummy-Bug/LeetCode/tree/master/3781-maximum-score-after-binary-swaps) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Dummy-Bug/LeetCode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3800-minimum-cost-to-make-two-binary-strings-equal](https://github.com/Dummy-Bug/LeetCode/tree/master/3800-minimum-cost-to-make-two-binary-strings-equal) |
 | [3810-minimum-operations-to-reach-target-array](https://github.com/Dummy-Bug/LeetCode/tree/master/3810-minimum-operations-to-reach-target-array) |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3598-longest-common-prefix-between-adjacent-strings-after-removals](https://github.com/Dummy-Bug/LeetCode/tree/master/3598-longest-common-prefix-between-adjacent-strings-after-removals) |
 | [3694-distinct-points-reachable-after-substring-removal](https://github.com/Dummy-Bug/LeetCode/tree/master/3694-distinct-points-reachable-after-substring-removal) |
 | [3713-longest-balanced-substring-i](https://github.com/Dummy-Bug/LeetCode/tree/master/3713-longest-balanced-substring-i) |
+| [3781-maximum-score-after-binary-swaps](https://github.com/Dummy-Bug/LeetCode/tree/master/3781-maximum-score-after-binary-swaps) |
 | [3799-word-squares-ii](https://github.com/Dummy-Bug/LeetCode/tree/master/3799-word-squares-ii) |
 | [3800-minimum-cost-to-make-two-binary-strings-equal](https://github.com/Dummy-Bug/LeetCode/tree/master/3800-minimum-cost-to-make-two-binary-strings-equal) |
 | [3805-count-caesar-cipher-pairs](https://github.com/Dummy-Bug/LeetCode/tree/master/3805-count-caesar-cipher-pairs) |
