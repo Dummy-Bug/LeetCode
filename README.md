@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/Dummy-Bug/LeetCode/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Dummy-Bug/LeetCode/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Dummy-Bug/LeetCode/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3800-minimum-cost-to-make-two-binary-strings-equal](https://github.com/Dummy-Bug/LeetCode/tree/master/3800-minimum-cost-to-make-two-binary-strings-equal) |
 | [3810-minimum-operations-to-reach-target-array](https://github.com/Dummy-Bug/LeetCode/tree/master/3810-minimum-operations-to-reach-target-array) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/Dummy-Bug/LeetCode/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/Dummy-Bug/LeetCode/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3694-distinct-points-reachable-after-substring-removal](https://github.com/Dummy-Bug/LeetCode/tree/master/3694-distinct-points-reachable-after-substring-removal) |
 | [3713-longest-balanced-substring-i](https://github.com/Dummy-Bug/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3799-word-squares-ii](https://github.com/Dummy-Bug/LeetCode/tree/master/3799-word-squares-ii) |
+| [3800-minimum-cost-to-make-two-binary-strings-equal](https://github.com/Dummy-Bug/LeetCode/tree/master/3800-minimum-cost-to-make-two-binary-strings-equal) |
 | [3805-count-caesar-cipher-pairs](https://github.com/Dummy-Bug/LeetCode/tree/master/3805-count-caesar-cipher-pairs) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/Dummy-Bug/LeetCode/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
 | [3853-merge-close-characters](https://github.com/Dummy-Bug/LeetCode/tree/master/3853-merge-close-characters) |
