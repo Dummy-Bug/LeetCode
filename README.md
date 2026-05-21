@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0740-delete-and-earn](https://github.com/Dummy-Bug/LeetCode/tree/master/0740-delete-and-earn) |
 | [3638-maximum-balanced-shipments](https://github.com/Dummy-Bug/LeetCode/tree/master/3638-maximum-balanced-shipments) |
+| [3747-count-distinct-integers-after-removing-zeros](https://github.com/Dummy-Bug/LeetCode/tree/master/3747-count-distinct-integers-after-removing-zeros) |
 | [3840-house-robber-v](https://github.com/Dummy-Bug/LeetCode/tree/master/3840-house-robber-v) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/Dummy-Bug/LeetCode/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 ## Biconnected Component
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Dummy-Bug/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Dummy-Bug/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Dummy-Bug/LeetCode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
+| [3747-count-distinct-integers-after-removing-zeros](https://github.com/Dummy-Bug/LeetCode/tree/master/3747-count-distinct-integers-after-removing-zeros) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Dummy-Bug/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/Dummy-Bug/LeetCode/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Dummy-Bug/LeetCode/tree/master/3789-minimum-cost-to-acquire-required-items) |
