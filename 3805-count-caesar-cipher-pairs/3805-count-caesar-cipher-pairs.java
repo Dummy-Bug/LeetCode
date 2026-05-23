@@ -1,36 +1,41 @@
 class Solution {
     public long countPairs(String[] words) {
-        
-        Map<String,Integer> map = new HashMap<>();
+
+        Map<String,Long> map = new HashMap<>();
         int MOD = 26;
-        int n = words.length;
-        long pairs = 0;
+        long totalPairs = 0L;
 
-        for (int i = 0; i < n; i++){
 
-            String word = words[i];
+        for (String word: words){
 
-            char leader = word.charAt(0);
-            int reference = (int)leader - 'a';
+            int n = word.length();
+            char firstChar = word.charAt(0);
+            int rotationFactor = firstChar - 'a';
 
             StringBuilder sb = new StringBuilder();
+            sb.append('a');
 
-            for (int j = 0; j < word.length(); j++){
-                
-                char ch = word.charAt(j);
-                int normalized = (int)ch - 'a';
+            for (int i = 1; i < n; i++){
 
-                int cycle = (normalized - reference + MOD)%MOD;
+                char ch = word.charAt(i);
+                int relativeValue = ch - 'a';
+                int normalizedRelativeValue = ( relativeValue - rotationFactor + MOD )%MOD;
 
-                int cycledChar = cycle + 'a';
-                sb.append((char)cycledChar);
-
+                char normalizedChar = (char)(normalizedRelativeValue + 'a');
+                sb.append(normalizedChar);
             }
-            String root = sb.toString();
-            int count = map.getOrDefault(root, 0);
-            pairs += count;
-            map.put(root, count + 1);
+
+            String normalizedWord = sb.toString();
+            map.put(normalizedWord , map.getOrDefault(normalizedWord,0L) + 1);
+            
         }
-        return pairs;
-    } 
+
+        for (Long freq : map.values()){
+            long pairs = (freq*(freq - 1))/2;
+
+            totalPairs += pairs;
+        }
+        return totalPairs;
+    }
+    
 }
