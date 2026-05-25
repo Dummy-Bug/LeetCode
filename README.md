@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Dummy-Bug/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3583-count-special-triplets](https://github.com/Dummy-Bug/LeetCode/tree/master/3583-count-special-triplets) |
 | [3598-longest-common-prefix-between-adjacent-strings-after-removals](https://github.com/Dummy-Bug/LeetCode/tree/master/3598-longest-common-prefix-between-adjacent-strings-after-removals) |
+| [3603-minimum-cost-path-with-alternating-directions-ii](https://github.com/Dummy-Bug/LeetCode/tree/master/3603-minimum-cost-path-with-alternating-directions-ii) |
 | [3638-maximum-balanced-shipments](https://github.com/Dummy-Bug/LeetCode/tree/master/3638-maximum-balanced-shipments) |
 | [3679-minimum-discards-to-balance-inventory](https://github.com/Dummy-Bug/LeetCode/tree/master/3679-minimum-discards-to-balance-inventory) |
 | [3698-split-array-with-minimum-difference](https://github.com/Dummy-Bug/LeetCode/tree/master/3698-split-array-with-minimum-difference) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0740-delete-and-earn](https://github.com/Dummy-Bug/LeetCode/tree/master/0740-delete-and-earn) |
+| [3603-minimum-cost-path-with-alternating-directions-ii](https://github.com/Dummy-Bug/LeetCode/tree/master/3603-minimum-cost-path-with-alternating-directions-ii) |
 | [3638-maximum-balanced-shipments](https://github.com/Dummy-Bug/LeetCode/tree/master/3638-maximum-balanced-shipments) |
 | [3747-count-distinct-integers-after-removing-zeros](https://github.com/Dummy-Bug/LeetCode/tree/master/3747-count-distinct-integers-after-removing-zeros) |
 | [3840-house-robber-v](https://github.com/Dummy-Bug/LeetCode/tree/master/3840-house-robber-v) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [3603-minimum-cost-path-with-alternating-directions-ii](https://github.com/Dummy-Bug/LeetCode/tree/master/3603-minimum-cost-path-with-alternating-directions-ii) |
 | [3905-multi-source-flood-fill](https://github.com/Dummy-Bug/LeetCode/tree/master/3905-multi-source-flood-fill) |
 ## Union-Find
 |  |
