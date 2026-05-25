@@ -1,37 +1,29 @@
 class Solution {
-    public int minArrivalsToDiscard(int[] arrivals, int w, int m) {
-
+    public int minArrivalsToDiscard(int[]  nums, int w, int m) {
+        
+        Map<Integer,Integer> map = new HashMap<>();
         Set<Integer> set = new HashSet<>();
-        Map<Integer, Integer> map = new HashMap<>();
+
+        int n = nums.length;
 
         int i = 0;
-        int j = 0;
+        for (int j = 0; j < n ; j++){
 
-        int n = arrivals.length;
-        int discardCount = 0;
+            int count = map.getOrDefault(nums[j] , 0);
 
-        while (j < n) {
-
-            int item = arrivals[j];
-
-            int count = map.getOrDefault(item, 0);
-            if (count + 1 > m) {
+            if ( count + 1 > m ) {
                 set.add(j);
-                discardCount++;
-            } else {
-                map.put(item, count + 1);
+            }else {
+                map.put(nums[j], count + 1);
             }
 
-            if (j - i + 1 == w) {
+            if (j - i + 1 == w){
                 if (!set.contains(i)){
-                   map.put(arrivals[i], map.get(arrivals[i]) - 1);
+                    map.put(nums[i] , map.get(nums[i]) - 1);
                 }
                 i++;
             }
-            j++;
         }
-
-        return discardCount;
+        return set.size();
     }
-
 }
