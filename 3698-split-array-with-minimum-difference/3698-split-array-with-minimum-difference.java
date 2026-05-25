@@ -1,62 +1,50 @@
 class Solution {
-
-    private long[] leftPeak(int[] nums){
-        
-        int n = nums.length;
-        int peak = 0;
-        long leftSum = nums[peak];
-
-        for (int i = 1; i < n; i++){
-            if (nums[i] > nums[i-1]){
-                leftSum += nums[i];
-                peak = i;
-            }else{
-                break;
-            }
-        }
-        return new long[]{peak,leftSum};
-    }
-
-    private long[] rightPeak(int[] nums){
-        
-        int n = nums.length;
-        int peak = n-1;
-        long rightSum = nums[peak];
-
-        for (int i = n-2; i >= 0; i--){
-            if (nums[i] > nums[i+1]){
-                rightSum += nums[i];
-                peak = i;
-            }else{
-                break;
-            }
-        }
-        return new long[]{peak,rightSum};
-    }
-    
     public long splitArray(int[] nums) {
+        
+        int n = nums.length;
+        
+        int left = 1;
 
-        long[] leftArray = leftPeak(nums);
-        long[] rightArray = rightPeak(nums);
+        long lSum = nums[0];
 
-        int leftPeak = (int)leftArray[0];
-        long leftSum = leftArray[1];
+        while(left < n){
 
-        int rightPeak = (int)rightArray[0];
-        long rightSum = rightArray[1];
+            if (nums[left] > nums[left - 1]){
+                lSum += nums[left];
+            }else{
+                break;
+            }
+            left++;
+        }
+        left--;
 
-        if (leftPeak == rightPeak){
+        int right = n-2;
+        long rSum = nums[n-1];
 
-            long optionA = Math.abs(leftSum - (rightSum - (long)nums[rightPeak]));
-            long optionB = Math.abs(rightSum - (leftSum - (long)nums[leftPeak]));
+        while(right >= 0){
+
+            if (nums[right] > nums[right + 1]){
+                rSum += nums[right];
+            }
+            else{
+                break;
+            }
+            right--;
+        }
+        right++;
+
+        if (left == right){
+
+            long optionA = Math.abs(lSum - nums[left] - rSum);
+            long optionB = Math.abs(lSum - (rSum - nums[right]));
 
             return Math.min(optionA,optionB);
         }
-
-        else if ((leftPeak == rightPeak - 1) && (nums[leftPeak] == nums[rightPeak])){
-            return Math.abs(leftSum - rightSum);
+        else if (left + 1 == right){
+            return Math.abs(lSum - rSum);
+        }else{
+            return -1;
         }
 
-        return -1L;
     }
 }
