@@ -1,35 +1,32 @@
 class Solution {
+
+    private int getDigit(int n,int i){
+        n = n/(int)Math.pow(10,i);
+        return n%10;
+    }
     public long sumDigitDifferences(int[] nums) {
-
-        int maxDigits = 0;
-        int digit = nums[0];
-
-        while(digit != 0){
-            maxDigits++;
-            digit = digit/10;
-        }
-
+        
+        Map<Integer,Long> freq = new HashMap<>();
         int n = nums.length;
-        long difference = 0;
 
-        Map<Integer,Integer> map = new HashMap<>();
+        int digitCount = Integer.toString(nums[0]).length();
+        long ans = 0;
 
-        for (int i = 0; i < maxDigits; i++){
+        while(digitCount != 0){
+            
+            digitCount--;
+            
+            for (int i = 0; i < n; i++){
 
-            int divisor = (int)(Math.pow(10,i));
-
-            for (int j = 0; j < n; j++){
-                int num = nums[j];
-
-                num = num/divisor;
-                int rem = num%10;
-                int count = map.getOrDefault(rem,0) + 1;
-                map.put(rem,count);
-                int totalValues = j + 1;
-                difference += totalValues - count;
+                int digit = getDigit(nums[i],digitCount);
+                
+                long count = freq.getOrDefault(digit , 0L);
+                long difference = (i + 1) - (count + 1);
+                ans = ans + difference;
+                freq.put(digit, count + 1);
             }
-            map.clear();
+            freq.clear();
         }
-        return difference;
+        return ans;
     }
 }
