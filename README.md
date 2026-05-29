@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/Dummy-Bug/LeetCode/tree/master/0744-network-delay-time) |
 | [1300-critical-connections-in-a-network](https://github.com/Dummy-Bug/LeetCode/tree/master/1300-critical-connections-in-a-network) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/Dummy-Bug/LeetCode/tree/master/1743-restore-the-array-from-adjacent-pairs) |
+| [1992-find-all-groups-of-farmland](https://github.com/Dummy-Bug/LeetCode/tree/master/1992-find-all-groups-of-farmland) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Dummy-Bug/LeetCode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [3528-unit-conversion-i](https://github.com/Dummy-Bug/LeetCode/tree/master/3528-unit-conversion-i) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/Dummy-Bug/LeetCode/tree/master/0744-network-delay-time) |
+| [1992-find-all-groups-of-farmland](https://github.com/Dummy-Bug/LeetCode/tree/master/1992-find-all-groups-of-farmland) |
 | [3528-unit-conversion-i](https://github.com/Dummy-Bug/LeetCode/tree/master/3528-unit-conversion-i) |
 | [3820-pythagorean-distance-nodes-in-a-tree](https://github.com/Dummy-Bug/LeetCode/tree/master/3820-pythagorean-distance-nodes-in-a-tree) |
 | [3905-multi-source-flood-fill](https://github.com/Dummy-Bug/LeetCode/tree/master/3905-multi-source-flood-fill) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/Dummy-Bug/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1664-ways-to-make-a-fair-array](https://github.com/Dummy-Bug/LeetCode/tree/master/1664-ways-to-make-a-fair-array) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/Dummy-Bug/LeetCode/tree/master/1743-restore-the-array-from-adjacent-pairs) |
+| [1992-find-all-groups-of-farmland](https://github.com/Dummy-Bug/LeetCode/tree/master/1992-find-all-groups-of-farmland) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Dummy-Bug/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/Dummy-Bug/LeetCode/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Dummy-Bug/LeetCode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1992-find-all-groups-of-farmland](https://github.com/Dummy-Bug/LeetCode/tree/master/1992-find-all-groups-of-farmland) |
 | [2536-increment-submatrices-by-one](https://github.com/Dummy-Bug/LeetCode/tree/master/2536-increment-submatrices-by-one) |
 | [3603-minimum-cost-path-with-alternating-directions-ii](https://github.com/Dummy-Bug/LeetCode/tree/master/3603-minimum-cost-path-with-alternating-directions-ii) |
 | [3905-multi-source-flood-fill](https://github.com/Dummy-Bug/LeetCode/tree/master/3905-multi-source-flood-fill) |
