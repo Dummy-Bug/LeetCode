@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/Dummy-Bug/LeetCode/tree/master/0744-network-delay-time) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Dummy-Bug/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1300-critical-connections-in-a-network](https://github.com/Dummy-Bug/LeetCode/tree/master/1300-critical-connections-in-a-network) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/Dummy-Bug/LeetCode/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [1992-find-all-groups-of-farmland](https://github.com/Dummy-Bug/LeetCode/tree/master/1992-find-all-groups-of-farmland) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/Dummy-Bug/LeetCode/tree/master/0744-network-delay-time) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Dummy-Bug/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1992-find-all-groups-of-farmland](https://github.com/Dummy-Bug/LeetCode/tree/master/1992-find-all-groups-of-farmland) |
 | [3528-unit-conversion-i](https://github.com/Dummy-Bug/LeetCode/tree/master/3528-unit-conversion-i) |
 | [3820-pythagorean-distance-nodes-in-a-tree](https://github.com/Dummy-Bug/LeetCode/tree/master/3820-pythagorean-distance-nodes-in-a-tree) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Dummy-Bug/LeetCode/tree/master/0001-two-sum) |
 | [0740-delete-and-earn](https://github.com/Dummy-Bug/LeetCode/tree/master/0740-delete-and-earn) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Dummy-Bug/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/Dummy-Bug/LeetCode/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0930-binary-subarrays-with-sum](https://github.com/Dummy-Bug/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1400-construct-k-palindrome-strings](https://github.com/Dummy-Bug/LeetCode/tree/master/1400-construct-k-palindrome-strings) |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Dummy-Bug/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Dummy-Bug/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Dummy-Bug/LeetCode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [3820-pythagorean-distance-nodes-in-a-tree](https://github.com/Dummy-Bug/LeetCode/tree/master/3820-pythagorean-distance-nodes-in-a-tree) |
@@ -356,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Dummy-Bug/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Dummy-Bug/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Dummy-Bug/LeetCode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Linked List
