@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/Dummy-Bug/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1664-ways-to-make-a-fair-array](https://github.com/Dummy-Bug/LeetCode/tree/master/1664-ways-to-make-a-fair-array) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/Dummy-Bug/LeetCode/tree/master/1743-restore-the-array-from-adjacent-pairs) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Dummy-Bug/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1992-find-all-groups-of-farmland](https://github.com/Dummy-Bug/LeetCode/tree/master/1992-find-all-groups-of-farmland) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Dummy-Bug/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/Dummy-Bug/LeetCode/tree/master/2208-minimum-operations-to-halve-array-sum) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Dummy-Bug/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Dummy-Bug/LeetCode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [3488-closest-equal-element-queries](https://github.com/Dummy-Bug/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Dummy-Bug/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0881-boats-to-save-people](https://github.com/Dummy-Bug/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0969-pancake-sorting](https://github.com/Dummy-Bug/LeetCode/tree/master/0969-pancake-sorting) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Dummy-Bug/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Dummy-Bug/LeetCode/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 ## Matrix
 |  |
