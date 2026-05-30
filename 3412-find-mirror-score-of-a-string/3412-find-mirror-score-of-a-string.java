@@ -1,43 +1,25 @@
 class Solution {
-    
-    Map<Integer,Deque<Integer>> map = new HashMap<>();
-
     public long calculateScore(String s) {
-        
-        int n = s.length();
-        long count = 0L;
-
-        for (int i = 0; i < n; i++){
-
-            char ch = s.charAt(i);
-            
-            int original = ch - 'a';
-            int mirrored = 'z' - 'a' - original;
-
-            if (map.containsKey(mirrored)){
-
-                Deque<Integer> stack = map.get(mirrored);
-                int j = stack.pop();
-                count = count + i - j;
-                
-                if (stack.isEmpty()){
-                    map.remove(mirrored);
-                }else{
-                    map.put(mirrored,stack);
-                }
-            }else {
-                Deque<Integer> stack;
-                if (map.containsKey(original)){
-                    stack = map.get(original);
-                }
-                else {
-                    stack = new ArrayDeque();
-                }
-                stack.push(i);
-                map.put(original,stack);
+          
+          Deque<Integer>[] st = new ArrayDeque[26];
+          
+          for (int i = 0; i < 26; i++){
+                st[i] = new ArrayDeque<>();
             }
 
-        }
-        return count;
-    }
+          long count = 0;
+          for (int i = 0; i < s.length(); i++) {
+              
+              int c = s.charAt(i) - 'a';
+              int m = 25 - c;  
+
+              if (!st[m].isEmpty()){
+                count += i - st[m].pop();
+              }
+              else {
+                st[c].push(i);
+              }
+          }
+          return count;
+      }
 }
