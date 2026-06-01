@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/Dummy-Bug/LeetCode/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Dummy-Bug/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1992-find-all-groups-of-farmland](https://github.com/Dummy-Bug/LeetCode/tree/master/1992-find-all-groups-of-farmland) |
+| [2007-find-original-array-from-doubled-array](https://github.com/Dummy-Bug/LeetCode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Dummy-Bug/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/Dummy-Bug/LeetCode/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Dummy-Bug/LeetCode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Dummy-Bug/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1400-construct-k-palindrome-strings](https://github.com/Dummy-Bug/LeetCode/tree/master/1400-construct-k-palindrome-strings) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/Dummy-Bug/LeetCode/tree/master/1743-restore-the-array-from-adjacent-pairs) |
+| [2007-find-original-array-from-doubled-array](https://github.com/Dummy-Bug/LeetCode/tree/master/2007-find-original-array-from-doubled-array) |
 | [3137-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/Dummy-Bug/LeetCode/tree/master/3137-minimum-number-of-operations-to-make-word-k-periodic) |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/Dummy-Bug/LeetCode/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/Dummy-Bug/LeetCode/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Dummy-Bug/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0969-pancake-sorting](https://github.com/Dummy-Bug/LeetCode/tree/master/0969-pancake-sorting) |
 | [1400-construct-k-palindrome-strings](https://github.com/Dummy-Bug/LeetCode/tree/master/1400-construct-k-palindrome-strings) |
+| [2007-find-original-array-from-doubled-array](https://github.com/Dummy-Bug/LeetCode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/Dummy-Bug/LeetCode/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [3576-transform-array-to-all-equal-elements](https://github.com/Dummy-Bug/LeetCode/tree/master/3576-transform-array-to-all-equal-elements) |
 | [3638-maximum-balanced-shipments](https://github.com/Dummy-Bug/LeetCode/tree/master/3638-maximum-balanced-shipments) |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Dummy-Bug/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/Dummy-Bug/LeetCode/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0969-pancake-sorting](https://github.com/Dummy-Bug/LeetCode/tree/master/0969-pancake-sorting) |
+| [2007-find-original-array-from-doubled-array](https://github.com/Dummy-Bug/LeetCode/tree/master/2007-find-original-array-from-doubled-array) |
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/Dummy-Bug/LeetCode/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
 | [3531-count-covered-buildings](https://github.com/Dummy-Bug/LeetCode/tree/master/3531-count-covered-buildings) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Dummy-Bug/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
