@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Dummy-Bug/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1664-ways-to-make-a-fair-array](https://github.com/Dummy-Bug/LeetCode/tree/master/1664-ways-to-make-a-fair-array) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/Dummy-Bug/LeetCode/tree/master/1743-restore-the-array-from-adjacent-pairs) |
+| [1813-sentence-similarity-iii](https://github.com/Dummy-Bug/LeetCode/tree/master/1813-sentence-similarity-iii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Dummy-Bug/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1992-find-all-groups-of-farmland](https://github.com/Dummy-Bug/LeetCode/tree/master/1992-find-all-groups-of-farmland) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Dummy-Bug/LeetCode/tree/master/2007-find-original-array-from-doubled-array) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-groups-of-special-equivalent-strings](https://github.com/Dummy-Bug/LeetCode/tree/master/0893-groups-of-special-equivalent-strings) |
 | [1400-construct-k-palindrome-strings](https://github.com/Dummy-Bug/LeetCode/tree/master/1400-construct-k-palindrome-strings) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Dummy-Bug/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1813-sentence-similarity-iii](https://github.com/Dummy-Bug/LeetCode/tree/master/1813-sentence-similarity-iii) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/Dummy-Bug/LeetCode/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [3137-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/Dummy-Bug/LeetCode/tree/master/3137-minimum-number-of-operations-to-make-word-k-periodic) |
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/Dummy-Bug/LeetCode/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0881-boats-to-save-people](https://github.com/Dummy-Bug/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0969-pancake-sorting](https://github.com/Dummy-Bug/LeetCode/tree/master/0969-pancake-sorting) |
+| [1813-sentence-similarity-iii](https://github.com/Dummy-Bug/LeetCode/tree/master/1813-sentence-similarity-iii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Dummy-Bug/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Dummy-Bug/LeetCode/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 ## Matrix
