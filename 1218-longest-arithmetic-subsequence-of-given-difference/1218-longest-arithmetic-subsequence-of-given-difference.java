@@ -1,19 +1,20 @@
 class Solution {
-    public int longestSubsequence(int[] arr, int difference) {
-        
-        Map<Integer,Integer> map = new HashMap<>();
+      public int longestSubsequence(int[] arr, int difference) {
 
-        int maxCount = 0;
+          final int maxVal  = 10000;
+          final int maxDiff = 10000;
+          final int offset  = maxVal + maxDiff;
+          final int size    = 2 * offset + 1;
 
-        for (int num : arr) {
+          int[] dp = new int[size];
 
-            int length = map.getOrDefault(num - difference,0);
-            length = length + 1;
-            map.put(num,length);
-
-            maxCount = Math.max(maxCount , length);
-        }
-
-        return maxCount;
-    }
-}
+          int best = 0;
+          for (int num : arr) {
+              int normalizedNum     = num + offset;
+              int prevNormalizedNum = normalizedNum - difference;
+              dp[normalizedNum] = dp[prevNormalizedNum] + 1;
+              best = Math.max(best, dp[normalizedNum]);
+          }
+          return best;
+      }
+  }
