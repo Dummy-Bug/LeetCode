@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0969-pancake-sorting](https://github.com/Dummy-Bug/LeetCode/tree/master/0969-pancake-sorting) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Dummy-Bug/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Dummy-Bug/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Dummy-Bug/LeetCode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Dummy-Bug/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/Dummy-Bug/LeetCode/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1664-ways-to-make-a-fair-array](https://github.com/Dummy-Bug/LeetCode/tree/master/1664-ways-to-make-a-fair-array) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Dummy-Bug/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/Dummy-Bug/LeetCode/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0930-binary-subarrays-with-sum](https://github.com/Dummy-Bug/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Dummy-Bug/LeetCode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1400-construct-k-palindrome-strings](https://github.com/Dummy-Bug/LeetCode/tree/master/1400-construct-k-palindrome-strings) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/Dummy-Bug/LeetCode/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/Dummy-Bug/LeetCode/tree/master/1743-restore-the-array-from-adjacent-pairs) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Dummy-Bug/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0740-delete-and-earn](https://github.com/Dummy-Bug/LeetCode/tree/master/0740-delete-and-earn) |
 | [0877-stone-game](https://github.com/Dummy-Bug/LeetCode/tree/master/0877-stone-game) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Dummy-Bug/LeetCode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1641-count-sorted-vowel-strings](https://github.com/Dummy-Bug/LeetCode/tree/master/1641-count-sorted-vowel-strings) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/Dummy-Bug/LeetCode/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/Dummy-Bug/LeetCode/tree/master/3393-count-paths-with-the-given-xor-value) |
