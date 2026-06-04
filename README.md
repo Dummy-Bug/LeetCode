@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Dummy-Bug/LeetCode/tree/master/0020-valid-parentheses) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/Dummy-Bug/LeetCode/tree/master/0893-groups-of-special-equivalent-strings) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Dummy-Bug/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Dummy-Bug/LeetCode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1400-construct-k-palindrome-strings](https://github.com/Dummy-Bug/LeetCode/tree/master/1400-construct-k-palindrome-strings) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Dummy-Bug/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1813-sentence-similarity-iii](https://github.com/Dummy-Bug/LeetCode/tree/master/1813-sentence-similarity-iii) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Dummy-Bug/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Dummy-Bug/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Dummy-Bug/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Dummy-Bug/LeetCode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [3412-find-mirror-score-of-a-string](https://github.com/Dummy-Bug/LeetCode/tree/master/3412-find-mirror-score-of-a-string) |
 | [3638-maximum-balanced-shipments](https://github.com/Dummy-Bug/LeetCode/tree/master/3638-maximum-balanced-shipments) |
 ## Monotonic Stack
