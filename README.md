@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dummy-Bug/LeetCode/tree/master/0020-valid-parentheses) |
 | [0227-basic-calculator-ii](https://github.com/Dummy-Bug/LeetCode/tree/master/0227-basic-calculator-ii) |
+| [0394-decode-string](https://github.com/Dummy-Bug/LeetCode/tree/master/0394-decode-string) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/Dummy-Bug/LeetCode/tree/master/0893-groups-of-special-equivalent-strings) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Dummy-Bug/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Dummy-Bug/LeetCode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/Dummy-Bug/LeetCode/tree/master/0394-decode-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Dummy-Bug/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Divide and Conquer
 |  |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Dummy-Bug/LeetCode/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dummy-Bug/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/Dummy-Bug/LeetCode/tree/master/0227-basic-calculator-ii) |
+| [0394-decode-string](https://github.com/Dummy-Bug/LeetCode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/Dummy-Bug/LeetCode/tree/master/0735-asteroid-collision) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Dummy-Bug/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Dummy-Bug/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
