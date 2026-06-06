@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dummy-Bug/LeetCode/tree/master/0020-valid-parentheses) |
+| [0224-basic-calculator](https://github.com/Dummy-Bug/LeetCode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Dummy-Bug/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/Dummy-Bug/LeetCode/tree/master/0394-decode-string) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/Dummy-Bug/LeetCode/tree/master/0893-groups-of-special-equivalent-strings) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/Dummy-Bug/LeetCode/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/Dummy-Bug/LeetCode/tree/master/0394-decode-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Dummy-Bug/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Divide and Conquer
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dummy-Bug/LeetCode/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dummy-Bug/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/Dummy-Bug/LeetCode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Dummy-Bug/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/Dummy-Bug/LeetCode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/Dummy-Bug/LeetCode/tree/master/0735-asteroid-collision) |
@@ -322,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dummy-Bug/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/Dummy-Bug/LeetCode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Dummy-Bug/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0877-stone-game](https://github.com/Dummy-Bug/LeetCode/tree/master/0877-stone-game) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/Dummy-Bug/LeetCode/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
