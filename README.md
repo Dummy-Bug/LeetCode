@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dummy-Bug/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0300-longest-increasing-subsequence](https://github.com/Dummy-Bug/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0735-asteroid-collision](https://github.com/Dummy-Bug/LeetCode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Dummy-Bug/LeetCode/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/Dummy-Bug/LeetCode/tree/master/0740-delete-and-earn) |
 | [0877-stone-game](https://github.com/Dummy-Bug/LeetCode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Dummy-Bug/LeetCode/tree/master/0881-boats-to-save-people) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/Dummy-Bug/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/Dummy-Bug/LeetCode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/Dummy-Bug/LeetCode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Dummy-Bug/LeetCode/tree/master/0739-daily-temperatures) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Dummy-Bug/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Dummy-Bug/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Dummy-Bug/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/Dummy-Bug/LeetCode/tree/master/0739-daily-temperatures) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Dummy-Bug/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Dummy-Bug/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [3638-maximum-balanced-shipments](https://github.com/Dummy-Bug/LeetCode/tree/master/3638-maximum-balanced-shipments) |
