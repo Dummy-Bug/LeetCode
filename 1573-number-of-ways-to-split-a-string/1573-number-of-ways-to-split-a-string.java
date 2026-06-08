@@ -10,40 +10,44 @@ class Solution {
             }
         }
 
+        if ((count%3) != 0){
+            return 0;
+        }
+
         int MOD = 1000000007;
 
         if (count == 0){
 
-            long n = (long)s.length() - 2L;
-            return (int) (( (n*(n+1)) / 2) % MOD);
+            long n = (long)s.length();
+            long cuts = ((n-1)*(n-2))/2;
+            return (int)(cuts%MOD);
         }
 
-        if ((count%3) != 0){
-            return 0;
-        }
+
         int ones = 0;
         int maxOnes = count / 3;
 
-        long splits = 1L;
-        long split = 0L;
+        long cuts = 1L;
+        int prevOne = -1;
 
-        for (char c : s.toCharArray()){
+        for (int i = 0; i < s.length(); i++){
 
+            char c  = s.charAt(i);
+            
             if (c == '1'){
                 ones += 1;
-            }
-            if (ones == maxOnes){
-                split += 1;
-            }
-            else if (ones > maxOnes){
-                ones = 1;
-                splits = (splits * split)%MOD;
-                split = 0;
                 if (ones == maxOnes){
-                    split = 1;
+                    prevOne = i;
+                }
+            }
+            if (ones > maxOnes){
+                cuts = (cuts * (i - prevOne))%MOD;
+                ones = 1;
+                if (ones == maxOnes){
+                    prevOne = i;
                 }
             }
         }
-        return (int)splits;
+        return (int)cuts;
     }
 }
