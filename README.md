@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/Dummy-Bug/LeetCode/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Dummy-Bug/LeetCode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2536-increment-submatrices-by-one](https://github.com/Dummy-Bug/LeetCode/tree/master/2536-increment-submatrices-by-one) |
+| [2592-maximize-greatness-of-an-array](https://github.com/Dummy-Bug/LeetCode/tree/master/2592-maximize-greatness-of-an-array) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/Dummy-Bug/LeetCode/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Dummy-Bug/LeetCode/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Dummy-Bug/LeetCode/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1400-construct-k-palindrome-strings](https://github.com/Dummy-Bug/LeetCode/tree/master/1400-construct-k-palindrome-strings) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Dummy-Bug/LeetCode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/Dummy-Bug/LeetCode/tree/master/2208-minimum-operations-to-halve-array-sum) |
+| [2592-maximize-greatness-of-an-array](https://github.com/Dummy-Bug/LeetCode/tree/master/2592-maximize-greatness-of-an-array) |
 | [3576-transform-array-to-all-equal-elements](https://github.com/Dummy-Bug/LeetCode/tree/master/3576-transform-array-to-all-equal-elements) |
 | [3638-maximum-balanced-shipments](https://github.com/Dummy-Bug/LeetCode/tree/master/3638-maximum-balanced-shipments) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Dummy-Bug/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-groups-of-special-equivalent-strings](https://github.com/Dummy-Bug/LeetCode/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0969-pancake-sorting](https://github.com/Dummy-Bug/LeetCode/tree/master/0969-pancake-sorting) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Dummy-Bug/LeetCode/tree/master/2007-find-original-array-from-doubled-array) |
+| [2592-maximize-greatness-of-an-array](https://github.com/Dummy-Bug/LeetCode/tree/master/2592-maximize-greatness-of-an-array) |
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/Dummy-Bug/LeetCode/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
 | [3531-count-covered-buildings](https://github.com/Dummy-Bug/LeetCode/tree/master/3531-count-covered-buildings) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Dummy-Bug/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -412,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/Dummy-Bug/LeetCode/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1813-sentence-similarity-iii](https://github.com/Dummy-Bug/LeetCode/tree/master/1813-sentence-similarity-iii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Dummy-Bug/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2592-maximize-greatness-of-an-array](https://github.com/Dummy-Bug/LeetCode/tree/master/2592-maximize-greatness-of-an-array) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Dummy-Bug/LeetCode/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Dummy-Bug/LeetCode/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 ## Matrix
