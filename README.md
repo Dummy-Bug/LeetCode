@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Dummy-Bug/LeetCode/tree/master/0877-stone-game) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Dummy-Bug/LeetCode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1641-count-sorted-vowel-strings](https://github.com/Dummy-Bug/LeetCode/tree/master/1641-count-sorted-vowel-strings) |
+| [2320-count-number-of-ways-to-place-houses](https://github.com/Dummy-Bug/LeetCode/tree/master/2320-count-number-of-ways-to-place-houses) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/Dummy-Bug/LeetCode/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/Dummy-Bug/LeetCode/tree/master/3393-count-paths-with-the-given-xor-value) |
 | [3603-minimum-cost-path-with-alternating-directions-ii](https://github.com/Dummy-Bug/LeetCode/tree/master/3603-minimum-cost-path-with-alternating-directions-ii) |
