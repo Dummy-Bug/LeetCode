@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1573-number-of-ways-to-split-a-string](https://github.com/Dummy-Bug/LeetCode/tree/master/1573-number-of-ways-to-split-a-string) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/Dummy-Bug/LeetCode/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1641-count-sorted-vowel-strings](https://github.com/Dummy-Bug/LeetCode/tree/master/1641-count-sorted-vowel-strings) |
+| [2698-find-the-punishment-number-of-an-integer](https://github.com/Dummy-Bug/LeetCode/tree/master/2698-find-the-punishment-number-of-an-integer) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/Dummy-Bug/LeetCode/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [3021-alice-and-bob-playing-flower-game](https://github.com/Dummy-Bug/LeetCode/tree/master/3021-alice-and-bob-playing-flower-game) |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/Dummy-Bug/LeetCode/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Dummy-Bug/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Dummy-Bug/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [2698-find-the-punishment-number-of-an-integer](https://github.com/Dummy-Bug/LeetCode/tree/master/2698-find-the-punishment-number-of-an-integer) |
 | [3799-word-squares-ii](https://github.com/Dummy-Bug/LeetCode/tree/master/3799-word-squares-ii) |
 ## Simulation
 |  |
