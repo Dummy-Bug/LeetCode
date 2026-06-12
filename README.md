@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Dummy-Bug/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0969-pancake-sorting](https://github.com/Dummy-Bug/LeetCode/tree/master/0969-pancake-sorting) |
 | [1400-construct-k-palindrome-strings](https://github.com/Dummy-Bug/LeetCode/tree/master/1400-construct-k-palindrome-strings) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Dummy-Bug/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Dummy-Bug/LeetCode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2207-maximize-number-of-subsequences-in-a-string](https://github.com/Dummy-Bug/LeetCode/tree/master/2207-maximize-number-of-subsequences-in-a-string) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/Dummy-Bug/LeetCode/tree/master/2208-minimum-operations-to-halve-array-sum) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1573-number-of-ways-to-split-a-string](https://github.com/Dummy-Bug/LeetCode/tree/master/1573-number-of-ways-to-split-a-string) |
 | [1813-sentence-similarity-iii](https://github.com/Dummy-Bug/LeetCode/tree/master/1813-sentence-similarity-iii) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/Dummy-Bug/LeetCode/tree/master/1839-longest-substring-of-all-vowels-in-order) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Dummy-Bug/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2207-maximize-number-of-subsequences-in-a-string](https://github.com/Dummy-Bug/LeetCode/tree/master/2207-maximize-number-of-subsequences-in-a-string) |
 | [2512-reward-top-k-students](https://github.com/Dummy-Bug/LeetCode/tree/master/2512-reward-top-k-students) |
 | [2522-partition-string-into-substrings-with-values-at-most-k](https://github.com/Dummy-Bug/LeetCode/tree/master/2522-partition-string-into-substrings-with-values-at-most-k) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/Dummy-Bug/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Dummy-Bug/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Dummy-Bug/LeetCode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Dummy-Bug/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3412-find-mirror-score-of-a-string](https://github.com/Dummy-Bug/LeetCode/tree/master/3412-find-mirror-score-of-a-string) |
 | [3638-maximum-balanced-shipments](https://github.com/Dummy-Bug/LeetCode/tree/master/3638-maximum-balanced-shipments) |
 ## Monotonic Stack
@@ -444,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/Dummy-Bug/LeetCode/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1813-sentence-similarity-iii](https://github.com/Dummy-Bug/LeetCode/tree/master/1813-sentence-similarity-iii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Dummy-Bug/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Dummy-Bug/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2592-maximize-greatness-of-an-array](https://github.com/Dummy-Bug/LeetCode/tree/master/2592-maximize-greatness-of-an-array) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Dummy-Bug/LeetCode/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Dummy-Bug/LeetCode/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
