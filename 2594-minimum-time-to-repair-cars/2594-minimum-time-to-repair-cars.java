@@ -5,7 +5,6 @@ class Solution {
         long repaired = 0;
 
         for (int r : ranks){
-            if (r > budget) return repaired >= cars;
             repaired += (long)Math.sqrt(budget/r);
             if (repaired >= cars) return true;
         }
@@ -14,8 +13,6 @@ class Solution {
     }
 
     public long repairCars(int[] ranks, int cars) {
-        
-        Arrays.sort(ranks);
 
         long low = 1L;
         long high = (long)cars*cars*100;
