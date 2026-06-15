@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1992-find-all-groups-of-farmland](https://github.com/Dummy-Bug/LeetCode/tree/master/1992-find-all-groups-of-farmland) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Dummy-Bug/LeetCode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Dummy-Bug/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [2187-minimum-time-to-complete-trips](https://github.com/Dummy-Bug/LeetCode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/Dummy-Bug/LeetCode/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Dummy-Bug/LeetCode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2512-reward-top-k-students](https://github.com/Dummy-Bug/LeetCode/tree/master/2512-reward-top-k-students) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Dummy-Bug/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Dummy-Bug/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2187-minimum-time-to-complete-trips](https://github.com/Dummy-Bug/LeetCode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Dummy-Bug/LeetCode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Dummy-Bug/LeetCode/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Dummy-Bug/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
