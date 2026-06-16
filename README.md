@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dummy-Bug/LeetCode/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/Dummy-Bug/LeetCode/tree/master/0067-add-binary) |
 | [0224-basic-calculator](https://github.com/Dummy-Bug/LeetCode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Dummy-Bug/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/Dummy-Bug/LeetCode/tree/master/0394-decode-string) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Dummy-Bug/LeetCode/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/Dummy-Bug/LeetCode/tree/master/0191-number-of-1-bits) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Dummy-Bug/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2546-apply-bitwise-operations-to-make-strings-equal](https://github.com/Dummy-Bug/LeetCode/tree/master/2546-apply-bitwise-operations-to-make-strings-equal) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Dummy-Bug/LeetCode/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dummy-Bug/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Dummy-Bug/LeetCode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Dummy-Bug/LeetCode/tree/master/0227-basic-calculator-ii) |
@@ -466,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Dummy-Bug/LeetCode/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/Dummy-Bug/LeetCode/tree/master/0735-asteroid-collision) |
 | [3412-find-mirror-score-of-a-string](https://github.com/Dummy-Bug/LeetCode/tree/master/3412-find-mirror-score-of-a-string) |
 | [3679-minimum-discards-to-balance-inventory](https://github.com/Dummy-Bug/LeetCode/tree/master/3679-minimum-discards-to-balance-inventory) |
