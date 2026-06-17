@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0224-basic-calculator](https://github.com/Dummy-Bug/LeetCode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Dummy-Bug/LeetCode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Dummy-Bug/LeetCode/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/Dummy-Bug/LeetCode/tree/master/0394-decode-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Dummy-Bug/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Divide and Conquer
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Dummy-Bug/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Dummy-Bug/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Dummy-Bug/LeetCode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Dummy-Bug/LeetCode/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/Dummy-Bug/LeetCode/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/Dummy-Bug/LeetCode/tree/master/0476-number-complement) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Dummy-Bug/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Dummy-Bug/LeetCode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Dummy-Bug/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/Dummy-Bug/LeetCode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Dummy-Bug/LeetCode/tree/master/0342-power-of-four) |
 | [0877-stone-game](https://github.com/Dummy-Bug/LeetCode/tree/master/0877-stone-game) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/Dummy-Bug/LeetCode/tree/master/1573-number-of-ways-to-split-a-string) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/Dummy-Bug/LeetCode/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
