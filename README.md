@@ -344,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Dummy-Bug/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Dummy-Bug/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Dummy-Bug/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0461-hamming-distance](https://github.com/Dummy-Bug/LeetCode/tree/master/0461-hamming-distance) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Dummy-Bug/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2546-apply-bitwise-operations-to-make-strings-equal](https://github.com/Dummy-Bug/LeetCode/tree/master/2546-apply-bitwise-operations-to-make-strings-equal) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/Dummy-Bug/LeetCode/tree/master/2588-count-the-number-of-beautiful-subarrays) |
