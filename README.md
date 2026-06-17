@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Dummy-Bug/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0338-counting-bits](https://github.com/Dummy-Bug/LeetCode/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/Dummy-Bug/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0740-delete-and-earn](https://github.com/Dummy-Bug/LeetCode/tree/master/0740-delete-and-earn) |
 | [0838-push-dominoes](https://github.com/Dummy-Bug/LeetCode/tree/master/0838-push-dominoes) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Dummy-Bug/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Dummy-Bug/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Dummy-Bug/LeetCode/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/Dummy-Bug/LeetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Dummy-Bug/LeetCode/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/Dummy-Bug/LeetCode/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/Dummy-Bug/LeetCode/tree/master/0476-number-complement) |
