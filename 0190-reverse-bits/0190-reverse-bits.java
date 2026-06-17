@@ -8,8 +8,8 @@ class Solution {
           int b1 = (n >> i) & 1;
           int b2 = (n >>> j) & 1;
           
-          num += b1 * (1 << j);
-          num += b2 * (1 << i);
+          num |= b1 * (1 << j);
+          num |= b2 * (1 << i);
           
           i++;
           j--;
