@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dummy-Bug/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0300-longest-increasing-subsequence](https://github.com/Dummy-Bug/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Dummy-Bug/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0477-total-hamming-distance](https://github.com/Dummy-Bug/LeetCode/tree/master/0477-total-hamming-distance) |
 | [0735-asteroid-collision](https://github.com/Dummy-Bug/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Dummy-Bug/LeetCode/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/Dummy-Bug/LeetCode/tree/master/0740-delete-and-earn) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Dummy-Bug/LeetCode/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/Dummy-Bug/LeetCode/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/Dummy-Bug/LeetCode/tree/master/0476-number-complement) |
+| [0477-total-hamming-distance](https://github.com/Dummy-Bug/LeetCode/tree/master/0477-total-hamming-distance) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Dummy-Bug/LeetCode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Dummy-Bug/LeetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1720-decode-xored-array](https://github.com/Dummy-Bug/LeetCode/tree/master/1720-decode-xored-array) |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/Dummy-Bug/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/Dummy-Bug/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Dummy-Bug/LeetCode/tree/master/0342-power-of-four) |
+| [0477-total-hamming-distance](https://github.com/Dummy-Bug/LeetCode/tree/master/0477-total-hamming-distance) |
 | [0877-stone-game](https://github.com/Dummy-Bug/LeetCode/tree/master/0877-stone-game) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Dummy-Bug/LeetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/Dummy-Bug/LeetCode/tree/master/1573-number-of-ways-to-split-a-string) |
