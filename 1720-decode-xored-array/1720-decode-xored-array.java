@@ -1,0 +1,15 @@
+class Solution {
+    public int[] decode(int[] encoded, int first) {
+        
+        int n = encoded.length;
+        int[] ans = new int[n + 1];
+        ans[0] = first;
+
+        for (int i = 1; i <= n; i++){
+            ans[i] = first ^ encoded[i - 1];
+            first = ans[i];
+        }
+        return ans;
+
+    }
+}
