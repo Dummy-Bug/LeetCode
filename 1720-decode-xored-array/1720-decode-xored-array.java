@@ -6,8 +6,7 @@ class Solution {
         ans[0] = first;
 
         for (int i = 1; i <= n; i++){
-            ans[i] = first ^ encoded[i - 1];
-            first = ans[i];
+            ans[i] = ans[i - 1] ^ encoded[i - 1];
         }
         return ans;
 
