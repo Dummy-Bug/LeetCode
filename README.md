@@ -352,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Dummy-Bug/LeetCode/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/Dummy-Bug/LeetCode/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/Dummy-Bug/LeetCode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Dummy-Bug/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Dummy-Bug/LeetCode/tree/master/0191-number-of-1-bits) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Dummy-Bug/LeetCode/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/Dummy-Bug/LeetCode/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dummy-Bug/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Dummy-Bug/LeetCode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Dummy-Bug/LeetCode/tree/master/0227-basic-calculator-ii) |
@@ -486,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/Dummy-Bug/LeetCode/tree/master/0089-gray-code) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Dummy-Bug/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Dummy-Bug/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/Dummy-Bug/LeetCode/tree/master/2698-find-the-punishment-number-of-an-integer) |
