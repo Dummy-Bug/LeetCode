@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Dummy-Bug/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/Dummy-Bug/LeetCode/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1664-ways-to-make-a-fair-array](https://github.com/Dummy-Bug/LeetCode/tree/master/1664-ways-to-make-a-fair-array) |
+| [1720-decode-xored-array](https://github.com/Dummy-Bug/LeetCode/tree/master/1720-decode-xored-array) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/Dummy-Bug/LeetCode/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [1813-sentence-similarity-iii](https://github.com/Dummy-Bug/LeetCode/tree/master/1813-sentence-similarity-iii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Dummy-Bug/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Dummy-Bug/LeetCode/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/Dummy-Bug/LeetCode/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/Dummy-Bug/LeetCode/tree/master/0476-number-complement) |
+| [1720-decode-xored-array](https://github.com/Dummy-Bug/LeetCode/tree/master/1720-decode-xored-array) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Dummy-Bug/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2546-apply-bitwise-operations-to-make-strings-equal](https://github.com/Dummy-Bug/LeetCode/tree/master/2546-apply-bitwise-operations-to-make-strings-equal) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/Dummy-Bug/LeetCode/tree/master/2588-count-the-number-of-beautiful-subarrays) |
