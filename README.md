@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/Dummy-Bug/LeetCode/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2592-maximize-greatness-of-an-array](https://github.com/Dummy-Bug/LeetCode/tree/master/2592-maximize-greatness-of-an-array) |
 | [2594-minimum-time-to-repair-cars](https://github.com/Dummy-Bug/LeetCode/tree/master/2594-minimum-time-to-repair-cars) |
+| [2684-maximum-number-of-moves-in-a-grid](https://github.com/Dummy-Bug/LeetCode/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/Dummy-Bug/LeetCode/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [2874-maximum-value-of-an-ordered-triplet-ii](https://github.com/Dummy-Bug/LeetCode/tree/master/2874-maximum-value-of-an-ordered-triplet-ii) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Dummy-Bug/LeetCode/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1641-count-sorted-vowel-strings](https://github.com/Dummy-Bug/LeetCode/tree/master/1641-count-sorted-vowel-strings) |
 | [2320-count-number-of-ways-to-place-houses](https://github.com/Dummy-Bug/LeetCode/tree/master/2320-count-number-of-ways-to-place-houses) |
 | [2522-partition-string-into-substrings-with-values-at-most-k](https://github.com/Dummy-Bug/LeetCode/tree/master/2522-partition-string-into-substrings-with-values-at-most-k) |
+| [2684-maximum-number-of-moves-in-a-grid](https://github.com/Dummy-Bug/LeetCode/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2745-construct-the-longest-new-string](https://github.com/Dummy-Bug/LeetCode/tree/master/2745-construct-the-longest-new-string) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/Dummy-Bug/LeetCode/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/Dummy-Bug/LeetCode/tree/master/3393-count-paths-with-the-given-xor-value) |
@@ -525,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1992-find-all-groups-of-farmland](https://github.com/Dummy-Bug/LeetCode/tree/master/1992-find-all-groups-of-farmland) |
 | [2536-increment-submatrices-by-one](https://github.com/Dummy-Bug/LeetCode/tree/master/2536-increment-submatrices-by-one) |
+| [2684-maximum-number-of-moves-in-a-grid](https://github.com/Dummy-Bug/LeetCode/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/Dummy-Bug/LeetCode/tree/master/3393-count-paths-with-the-given-xor-value) |
 | [3603-minimum-cost-path-with-alternating-directions-ii](https://github.com/Dummy-Bug/LeetCode/tree/master/3603-minimum-cost-path-with-alternating-directions-ii) |
 | [3905-multi-source-flood-fill](https://github.com/Dummy-Bug/LeetCode/tree/master/3905-multi-source-flood-fill) |
