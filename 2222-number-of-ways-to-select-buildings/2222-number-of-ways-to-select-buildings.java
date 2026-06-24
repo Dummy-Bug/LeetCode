@@ -1,32 +1,29 @@
-import java.util.Arrays;
 
 class Solution {
     
-    private Long[][][] dp;
-
     public long numberOfWays(String s) {
-        int n = s.length();
-        dp = new Long[n][4][3]; 
+      int n = s.length();
+      long totalZero = 0, totalOne = 0;
+      for (int i = 0; i < n; i++) {
+          if (s.charAt(i) == '0') totalZero++; else totalOne++;
+      }
 
-        return helper(0, 2, s, 3); 
-    }
+      long leftZero = 0, leftOne = 0;
+      long ans = 0;
+      
+      for (int i = 0; i < n; i++) {
 
-    private long helper(int i, int prev, String s, int count) {
-        if (count == 0) return 1L;
-        if (i >= s.length()) return 0L;
-
-        if (dp[i][count][prev] != null) {
-            return dp[i][count][prev];
-        }
-
-        long skip = helper(i + 1, prev, s, count);
-        long take = 0L;
-        int building = s.charAt(i) - '0';
-
-        if (prev == 2 || building != prev) {
-            take = helper(i + 1, building, s, count - 1);
-        }
-
-        return dp[i][count][prev] = skip + take;
-    }
+          if (s.charAt(i) == '1') {
+              long rightZero = totalZero - leftZero;
+              ans += leftZero * rightZero;
+              leftOne++;
+          } 
+          else {
+              long rightOne = totalOne - leftOne;
+              ans += leftOne * rightOne;
+              leftZero++;
+          }
+      }
+      return ans;
+  }
 }
