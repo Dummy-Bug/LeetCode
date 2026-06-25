@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Dummy-Bug/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Dummy-Bug/LeetCode/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/Dummy-Bug/LeetCode/tree/master/0740-delete-and-earn) |
+| [0809-expressive-words](https://github.com/Dummy-Bug/LeetCode/tree/master/0809-expressive-words) |
 | [0853-car-fleet](https://github.com/Dummy-Bug/LeetCode/tree/master/0853-car-fleet) |
 | [0870-advantage-shuffle](https://github.com/Dummy-Bug/LeetCode/tree/master/0870-advantage-shuffle) |
 | [0877-stone-game](https://github.com/Dummy-Bug/LeetCode/tree/master/0877-stone-game) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Dummy-Bug/LeetCode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Dummy-Bug/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/Dummy-Bug/LeetCode/tree/master/0394-decode-string) |
+| [0809-expressive-words](https://github.com/Dummy-Bug/LeetCode/tree/master/0809-expressive-words) |
 | [0838-push-dominoes](https://github.com/Dummy-Bug/LeetCode/tree/master/0838-push-dominoes) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/Dummy-Bug/LeetCode/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/Dummy-Bug/LeetCode/tree/master/0926-flip-string-to-monotone-increasing) |
@@ -519,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0809-expressive-words](https://github.com/Dummy-Bug/LeetCode/tree/master/0809-expressive-words) |
 | [0838-push-dominoes](https://github.com/Dummy-Bug/LeetCode/tree/master/0838-push-dominoes) |
 | [0870-advantage-shuffle](https://github.com/Dummy-Bug/LeetCode/tree/master/0870-advantage-shuffle) |
 | [0881-boats-to-save-people](https://github.com/Dummy-Bug/LeetCode/tree/master/0881-boats-to-save-people) |
