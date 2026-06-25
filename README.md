@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1641-count-sorted-vowel-strings](https://github.com/Dummy-Bug/LeetCode/tree/master/1641-count-sorted-vowel-strings) |
 | [2222-number-of-ways-to-select-buildings](https://github.com/Dummy-Bug/LeetCode/tree/master/2222-number-of-ways-to-select-buildings) |
 | [2320-count-number-of-ways-to-place-houses](https://github.com/Dummy-Bug/LeetCode/tree/master/2320-count-number-of-ways-to-place-houses) |
+| [2466-count-ways-to-build-good-strings](https://github.com/Dummy-Bug/LeetCode/tree/master/2466-count-ways-to-build-good-strings) |
 | [2522-partition-string-into-substrings-with-values-at-most-k](https://github.com/Dummy-Bug/LeetCode/tree/master/2522-partition-string-into-substrings-with-values-at-most-k) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/Dummy-Bug/LeetCode/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2745-construct-the-longest-new-string](https://github.com/Dummy-Bug/LeetCode/tree/master/2745-construct-the-longest-new-string) |
