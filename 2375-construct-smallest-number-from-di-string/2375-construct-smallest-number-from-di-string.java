@@ -17,30 +17,21 @@ class Solution {
         
         for (int i = 0; i <= n ; i++) ans[i] = i + 1;
 
-        Deque<Integer> stack = new ArrayDeque<>();
+        int prevD = -1;
 
         for (int i = 0; i < n; i++){
 
             char ch = pattern.charAt(i);
 
-            if (ch == 'D') stack.push(i);
-            else if (ch == 'I'){
-                
-                int j = i;
-                
-                while (!stack.isEmpty()){
-                    j = stack.pop();
-                }
-                reverse(ans,j,i);
+            if (ch == 'D' && prevD == -1) prevD = i ;
+
+            else if (ch == 'I' && prevD != -1){
+                reverse(ans,prevD,i);
+                prevD = -1;
             }
         }
 
-        int j = -1;
-                
-        while (!stack.isEmpty()){
-            j = stack.pop();
-        }
-        if (j != -1) reverse(ans,j,n);
+        if (prevD != -1) reverse(ans,prevD,n);
 
         StringBuilder sb = new StringBuilder();
 
