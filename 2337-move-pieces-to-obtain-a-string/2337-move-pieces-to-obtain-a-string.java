@@ -1,66 +1,65 @@
 class Solution {
     public boolean canChange(String start, String target) {
         
+        int i = 0 , j = 0;
         int n = start.length();
-        
-        int rCount = 0;
-        int lCount = 0;
-        int trCount = 0;
-        int tlCount = 0;
 
-        int j = 0;
+        int c1 = 0 , c2 = 0;
 
-        for (int i = 0; i < n; i++){
+        while ( i < n && j < n){
 
-            char targetChar = target.charAt(i);
+            char t = target.charAt(i);
 
-            if (targetChar == 'L'){
+            if (t == '_') c1++;
 
-                tlCount++;
+            else if (t == 'L'){
 
-                while (j < n){
+                while( j < n){
 
-                    char startChar = start.charAt(j);
+                    char s = start.charAt(j);
 
-                    if (startChar == 'R') return false;
+                    if (s == 'R') return false;
 
-                    if (startChar == 'L'){
-                        lCount++;
-                        if (j < i) return false;
+                    else if (s == 'L'){
+                        if (i > j) return false;
+                        j++;
                         break;
                     }
+
+                    else c2++;
                     j++;
                 }
-                if (j >= n) return false;
-                j++;
-
+                
             }
-            else if (targetChar == 'R'){
-
-                trCount++;
-
+            else {
                 while (j < n){
 
-                    char startChar = start.charAt(j);
+                    char s = start.charAt(j);
 
-                    if (startChar == 'L') return false;
-
-                    if (startChar == 'R'){
-                        rCount++;
-                        if (j > i) return false;
+                    if (s == 'L') return false;
+                    else if (s == 'R'){
+                        if (i < j) return false;
+                        j++;
                         break;
                     }
+                    else c2++;
                     j++;
                 }
-                if (j >= n) return false;
-                j++;
             }
+            i++;
         }
-        while (j < n){
-            System.out.println(j);
-            if (start.charAt(j) != '_') return false;
+        while( i != n){
+            char t = target.charAt(i);
+            if (t != '_') return false;
+            else c1++;
+            i++;
+        }
+        while( j != n){
+            char s = start.charAt(j);
+            if (s != '_') return false;
+            else c2++;
             j++;
         }
-        return ((lCount == tlCount ) && (rCount == trCount));
+        return c1 == c2;
     }
 }
