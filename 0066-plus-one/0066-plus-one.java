@@ -1,52 +1,29 @@
 class Solution {
-    public void swap(int[] digits,int i, int j){
-        int temp  = digits[i];
-        digits[i] = digits[j];
-        digits[j] = temp;
-    }
-    public void reverse(int[] digits){
-        int i;
-        int j = digits.length-1;
-        
-        for(i=0;i<=j;i++,j--){
-            swap(digits,i,j);
-        }
-        
-    }
     public int[] plusOne(int[] digits) {
         
-        reverse(digits); 
+        List<Integer> ans = new ArrayList<>();
         int carry = 1;
-        for(int i = 0;i<digits.length;i++){
-            if (carry == 0){
-                reverse(digits);
-                return digits;
-            }
-            int curr_num = digits[i]+carry;
-            
-            if (curr_num>9){
-                digits[i] = 0;
-                carry = 1;
-            }
-            else{
-                digits[i] = curr_num;
-                carry = 0;
-            }
+        int n = digits.length;
+
+        for (int i = n - 1; i >= 0; i--){
+
+            int num = digits[i];
+            int result = (num + carry)%10;
+            carry = (num + carry)/10;
+                        
+            ans.add(result);
         }
-        if (carry==1){
-            int[] result = new int[digits.length+1];
-            reverse(digits);
-            int i ;
-            for (i =0; i<digits.length;i++){
-                result[i] = digits[i];
-            }
-            result[i] = 1;
-            reverse(result);
-            return result;
+        if (carry == 1){
+            ans.add(1);
         }
-        else{
-            reverse(digits);
-            return digits;
+
+        int sz = ans.size();
+        int [] result = new int[sz];
+
+        for (int i = sz - 1; i >= 0; i--){
+            result[sz - i - 1] = ans.get(i);
         }
+        return result;
+
     }
 }
