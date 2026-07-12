@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Dummy-Bug/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0744-network-delay-time](https://github.com/Dummy-Bug/LeetCode/tree/master/0744-network-delay-time) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Dummy-Bug/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1300-critical-connections-in-a-network](https://github.com/Dummy-Bug/LeetCode/tree/master/1300-critical-connections-in-a-network) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Dummy-Bug/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0744-network-delay-time](https://github.com/Dummy-Bug/LeetCode/tree/master/0744-network-delay-time) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Dummy-Bug/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1992-find-all-groups-of-farmland](https://github.com/Dummy-Bug/LeetCode/tree/master/1992-find-all-groups-of-farmland) |
@@ -568,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Dummy-Bug/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Dummy-Bug/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Dummy-Bug/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Dummy-Bug/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -586,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Dummy-Bug/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Dummy-Bug/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Dummy-Bug/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Dummy-Bug/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -593,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Dummy-Bug/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Dummy-Bug/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 ## Design
 |  |
