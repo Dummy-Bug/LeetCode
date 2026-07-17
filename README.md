@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Dummy-Bug/LeetCode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Dummy-Bug/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/Dummy-Bug/LeetCode/tree/master/0893-groups-of-special-equivalent-strings) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Dummy-Bug/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/Dummy-Bug/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0962-maximum-width-ramp](https://github.com/Dummy-Bug/LeetCode/tree/master/0962-maximum-width-ramp) |
 | [0969-pancake-sorting](https://github.com/Dummy-Bug/LeetCode/tree/master/0969-pancake-sorting) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/Dummy-Bug/LeetCode/tree/master/0740-delete-and-earn) |
 | [0838-push-dominoes](https://github.com/Dummy-Bug/LeetCode/tree/master/0838-push-dominoes) |
 | [0877-stone-game](https://github.com/Dummy-Bug/LeetCode/tree/master/0877-stone-game) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Dummy-Bug/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/Dummy-Bug/LeetCode/tree/master/0926-flip-string-to-monotone-increasing) |
 | [0935-knight-dialer](https://github.com/Dummy-Bug/LeetCode/tree/master/0935-knight-dialer) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Dummy-Bug/LeetCode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/Dummy-Bug/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Dummy-Bug/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Dummy-Bug/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [3719-longest-balanced-subarray-i](https://github.com/Dummy-Bug/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 ## Segment Tree
 |  |
@@ -607,4 +610,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/Dummy-Bug/LeetCode/tree/master/0986-interval-list-intersections) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Dummy-Bug/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Dummy-Bug/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
