@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dummy-Bug/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/Dummy-Bug/LeetCode/tree/master/0062-unique-paths) |
 | [0213-house-robber-ii](https://github.com/Dummy-Bug/LeetCode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Dummy-Bug/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/Dummy-Bug/LeetCode/tree/master/0338-counting-bits) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Dummy-Bug/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Dummy-Bug/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Dummy-Bug/LeetCode/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/Dummy-Bug/LeetCode/tree/master/0089-gray-code) |
@@ -588,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Dummy-Bug/LeetCode/tree/master/0062-unique-paths) |
 | [1641-count-sorted-vowel-strings](https://github.com/Dummy-Bug/LeetCode/tree/master/1641-count-sorted-vowel-strings) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Dummy-Bug/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Binary Search Tree
