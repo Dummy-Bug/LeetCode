@@ -1,41 +1,45 @@
 class Solution {
-    
-    Integer [] dp;
 
+    private int helper(int [] nums){
+        
+        int prev1 = nums[0];
+        int prev2 = 0;
+
+        for (int i = 1; i < nums.length; i++){
+            
+            int takeCurrent = nums[i] + prev2;
+            int skipCurrent = prev1;
+
+            int max = Math.max(takeCurrent, skipCurrent);
+
+            prev2 = prev1;
+            prev1 = max;
+        }
+        return prev1;
+    }
+    
+    
     public int rob(int[] nums) {
 
-        if (nums.length == 1) return nums[0];
-        
-        dp = new Integer[nums.length];
+        int n = nums.length;
+        if (n == 1) return nums[0];
 
-        int [] nums1 = new int [nums.length - 1];
-        for (int i = 0; i < nums.length - 1; i++){
+        int [] nums1 = new int [n];
+        for (int i = 0; i < n - 1;i++){
             nums1[i] = nums[i];
         }
-
-        int [] nums2 = new int [nums.length - 1];
         
-        for (int i = 1; i < nums.length; i++){
+        int withoutLast = helper(nums1);
+
+        int [] nums2 = new int [n];
+        for (int i = 1; i < n; i++){
             nums2[i - 1] = nums[i];
         }
 
-        int costWithoutLast = helper(nums1.length - 1 , nums1);
-        Arrays.fill(dp,null);
-        int costWithoutFirst = helper(nums2.length - 1, nums2);
+        int withoutFirst = helper(nums2);
 
-        return Math.max(costWithoutLast , costWithoutFirst);
+        return Math.max(withoutLast , withoutFirst);
 
-    }
-
-    private int helper(int i , int [] nums){
-
-        if (i < 0 ) return 0;
-
-        if (dp[i] != null) return dp[i];
-
-        int takeCurrent = nums[i] + helper(i - 2, nums);
-        int skipCurrent = helper(i - 1, nums);
-
-        return dp[i] = Math.max(takeCurrent , skipCurrent);
+        
     }
 }
