@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Dummy-Bug/LeetCode/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/Dummy-Bug/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/Dummy-Bug/LeetCode/tree/master/0056-merge-intervals) |
+| [0063-unique-paths-ii](https://github.com/Dummy-Bug/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/Dummy-Bug/LeetCode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/Dummy-Bug/LeetCode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dummy-Bug/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dummy-Bug/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Dummy-Bug/LeetCode/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Dummy-Bug/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0213-house-robber-ii](https://github.com/Dummy-Bug/LeetCode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Dummy-Bug/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/Dummy-Bug/LeetCode/tree/master/0338-counting-bits) |
@@ -565,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Dummy-Bug/LeetCode/tree/master/0063-unique-paths-ii) |
 | [1992-find-all-groups-of-farmland](https://github.com/Dummy-Bug/LeetCode/tree/master/1992-find-all-groups-of-farmland) |
 | [2536-increment-submatrices-by-one](https://github.com/Dummy-Bug/LeetCode/tree/master/2536-increment-submatrices-by-one) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/Dummy-Bug/LeetCode/tree/master/2684-maximum-number-of-moves-in-a-grid) |
