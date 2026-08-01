@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dummy-Bug/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0213-house-robber-ii](https://github.com/Dummy-Bug/LeetCode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Dummy-Bug/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/Dummy-Bug/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Dummy-Bug/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0477-total-hamming-distance](https://github.com/Dummy-Bug/LeetCode/tree/master/0477-total-hamming-distance) |
 | [0735-asteroid-collision](https://github.com/Dummy-Bug/LeetCode/tree/master/0735-asteroid-collision) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Dummy-Bug/LeetCode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Dummy-Bug/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/Dummy-Bug/LeetCode/tree/master/0338-counting-bits) |
+| [0416-partition-equal-subset-sum](https://github.com/Dummy-Bug/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Dummy-Bug/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0740-delete-and-earn](https://github.com/Dummy-Bug/LeetCode/tree/master/0740-delete-and-earn) |
 | [0838-push-dominoes](https://github.com/Dummy-Bug/LeetCode/tree/master/0838-push-dominoes) |
