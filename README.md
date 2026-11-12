@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2874-maximum-value-of-an-ordered-triplet-ii](https://github.com/Dummy-Bug/LeetCode/tree/master/2874-maximum-value-of-an-ordered-triplet-ii) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Dummy-Bug/LeetCode/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Dummy-Bug/LeetCode/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
+| [3132-find-the-integer-added-to-array-ii](https://github.com/Dummy-Bug/LeetCode/tree/master/3132-find-the-integer-added-to-array-ii) |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/Dummy-Bug/LeetCode/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/Dummy-Bug/LeetCode/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Dummy-Bug/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2007-find-original-array-from-doubled-array](https://github.com/Dummy-Bug/LeetCode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2512-reward-top-k-students](https://github.com/Dummy-Bug/LeetCode/tree/master/2512-reward-top-k-students) |
 | [2592-maximize-greatness-of-an-array](https://github.com/Dummy-Bug/LeetCode/tree/master/2592-maximize-greatness-of-an-array) |
+| [3132-find-the-integer-added-to-array-ii](https://github.com/Dummy-Bug/LeetCode/tree/master/3132-find-the-integer-added-to-array-ii) |
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/Dummy-Bug/LeetCode/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
 | [3531-count-covered-buildings](https://github.com/Dummy-Bug/LeetCode/tree/master/3531-count-covered-buildings) |
 | [3613-minimize-maximum-component-cost](https://github.com/Dummy-Bug/LeetCode/tree/master/3613-minimize-maximum-component-cost) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Dummy-Bug/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Dummy-Bug/LeetCode/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
+| [3132-find-the-integer-added-to-array-ii](https://github.com/Dummy-Bug/LeetCode/tree/master/3132-find-the-integer-added-to-array-ii) |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/Dummy-Bug/LeetCode/tree/master/3371-identify-the-largest-outlier-in-an-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Dummy-Bug/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3713-longest-balanced-substring-i](https://github.com/Dummy-Bug/LeetCode/tree/master/3713-longest-balanced-substring-i) |
@@ -565,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2337-move-pieces-to-obtain-a-string](https://github.com/Dummy-Bug/LeetCode/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [2592-maximize-greatness-of-an-array](https://github.com/Dummy-Bug/LeetCode/tree/master/2592-maximize-greatness-of-an-array) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Dummy-Bug/LeetCode/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
+| [3132-find-the-integer-added-to-array-ii](https://github.com/Dummy-Bug/LeetCode/tree/master/3132-find-the-integer-added-to-array-ii) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Dummy-Bug/LeetCode/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 ## Matrix
 |  |
