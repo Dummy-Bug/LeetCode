@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2594-minimum-time-to-repair-cars](https://github.com/Dummy-Bug/LeetCode/tree/master/2594-minimum-time-to-repair-cars) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/Dummy-Bug/LeetCode/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/Dummy-Bug/LeetCode/tree/master/2750-ways-to-split-array-into-good-subarrays) |
+| [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Dummy-Bug/LeetCode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2874-maximum-value-of-an-ordered-triplet-ii](https://github.com/Dummy-Bug/LeetCode/tree/master/2874-maximum-value-of-an-ordered-triplet-ii) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Dummy-Bug/LeetCode/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Dummy-Bug/LeetCode/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2007-find-original-array-from-doubled-array](https://github.com/Dummy-Bug/LeetCode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2512-reward-top-k-students](https://github.com/Dummy-Bug/LeetCode/tree/master/2512-reward-top-k-students) |
 | [2592-maximize-greatness-of-an-array](https://github.com/Dummy-Bug/LeetCode/tree/master/2592-maximize-greatness-of-an-array) |
+| [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Dummy-Bug/LeetCode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [3132-find-the-integer-added-to-array-ii](https://github.com/Dummy-Bug/LeetCode/tree/master/3132-find-the-integer-added-to-array-ii) |
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/Dummy-Bug/LeetCode/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
 | [3531-count-covered-buildings](https://github.com/Dummy-Bug/LeetCode/tree/master/3531-count-covered-buildings) |
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Dummy-Bug/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Dummy-Bug/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/Dummy-Bug/LeetCode/tree/master/1839-longest-substring-of-all-vowels-in-order) |
+| [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Dummy-Bug/LeetCode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/Dummy-Bug/LeetCode/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
 | [3679-minimum-discards-to-balance-inventory](https://github.com/Dummy-Bug/LeetCode/tree/master/3679-minimum-discards-to-balance-inventory) |
 | [3694-distinct-points-reachable-after-substring-removal](https://github.com/Dummy-Bug/LeetCode/tree/master/3694-distinct-points-reachable-after-substring-removal) |
@@ -515,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2187-minimum-time-to-complete-trips](https://github.com/Dummy-Bug/LeetCode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Dummy-Bug/LeetCode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2594-minimum-time-to-repair-cars](https://github.com/Dummy-Bug/LeetCode/tree/master/2594-minimum-time-to-repair-cars) |
+| [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Dummy-Bug/LeetCode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Dummy-Bug/LeetCode/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Dummy-Bug/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3488-closest-equal-element-queries](https://github.com/Dummy-Bug/LeetCode/tree/master/3488-closest-equal-element-queries) |
