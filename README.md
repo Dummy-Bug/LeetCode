@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/Dummy-Bug/LeetCode/tree/master/0744-network-delay-time) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Dummy-Bug/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1992-find-all-groups-of-farmland](https://github.com/Dummy-Bug/LeetCode/tree/master/1992-find-all-groups-of-farmland) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Dummy-Bug/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3493-properties-graph](https://github.com/Dummy-Bug/LeetCode/tree/master/3493-properties-graph) |
 | [3528-unit-conversion-i](https://github.com/Dummy-Bug/LeetCode/tree/master/3528-unit-conversion-i) |
 | [3820-pythagorean-distance-nodes-in-a-tree](https://github.com/Dummy-Bug/LeetCode/tree/master/3820-pythagorean-distance-nodes-in-a-tree) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/Dummy-Bug/LeetCode/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2233-maximum-product-after-k-increments](https://github.com/Dummy-Bug/LeetCode/tree/master/2233-maximum-product-after-k-increments) |
 | [2512-reward-top-k-students](https://github.com/Dummy-Bug/LeetCode/tree/master/2512-reward-top-k-students) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Dummy-Bug/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Dummy-Bug/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/Dummy-Bug/LeetCode/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Dummy-Bug/LeetCode/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/Dummy-Bug/LeetCode/tree/master/0744-network-delay-time) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Dummy-Bug/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Array
 |  |
 | ------- |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3132-find-the-integer-added-to-array-ii](https://github.com/Dummy-Bug/LeetCode/tree/master/3132-find-the-integer-added-to-array-ii) |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/Dummy-Bug/LeetCode/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/Dummy-Bug/LeetCode/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Dummy-Bug/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3290-maximum-multiplication-score](https://github.com/Dummy-Bug/LeetCode/tree/master/3290-maximum-multiplication-score) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Dummy-Bug/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3355-zero-array-transformation-i](https://github.com/Dummy-Bug/LeetCode/tree/master/3355-zero-array-transformation-i) |
@@ -545,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0990-satisfiability-of-equality-equations](https://github.com/Dummy-Bug/LeetCode/tree/master/0990-satisfiability-of-equality-equations) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Dummy-Bug/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3493-properties-graph](https://github.com/Dummy-Bug/LeetCode/tree/master/3493-properties-graph) |
 | [3528-unit-conversion-i](https://github.com/Dummy-Bug/LeetCode/tree/master/3528-unit-conversion-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Dummy-Bug/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -592,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1992-find-all-groups-of-farmland](https://github.com/Dummy-Bug/LeetCode/tree/master/1992-find-all-groups-of-farmland) |
 | [2536-increment-submatrices-by-one](https://github.com/Dummy-Bug/LeetCode/tree/master/2536-increment-submatrices-by-one) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/Dummy-Bug/LeetCode/tree/master/2684-maximum-number-of-moves-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Dummy-Bug/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/Dummy-Bug/LeetCode/tree/master/3393-count-paths-with-the-given-xor-value) |
 | [3603-minimum-cost-path-with-alternating-directions-ii](https://github.com/Dummy-Bug/LeetCode/tree/master/3603-minimum-cost-path-with-alternating-directions-ii) |
 | [3905-multi-source-flood-fill](https://github.com/Dummy-Bug/LeetCode/tree/master/3905-multi-source-flood-fill) |
