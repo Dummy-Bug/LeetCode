@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1992-find-all-groups-of-farmland](https://github.com/Dummy-Bug/LeetCode/tree/master/1992-find-all-groups-of-farmland) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Dummy-Bug/LeetCode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Dummy-Bug/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [2145-count-the-hidden-sequences](https://github.com/Dummy-Bug/LeetCode/tree/master/2145-count-the-hidden-sequences) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Dummy-Bug/LeetCode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/Dummy-Bug/LeetCode/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2233-maximum-product-after-k-increments](https://github.com/Dummy-Bug/LeetCode/tree/master/2233-maximum-product-after-k-increments) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Dummy-Bug/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Dummy-Bug/LeetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1664-ways-to-make-a-fair-array](https://github.com/Dummy-Bug/LeetCode/tree/master/1664-ways-to-make-a-fair-array) |
+| [2145-count-the-hidden-sequences](https://github.com/Dummy-Bug/LeetCode/tree/master/2145-count-the-hidden-sequences) |
 | [2207-maximize-number-of-subsequences-in-a-string](https://github.com/Dummy-Bug/LeetCode/tree/master/2207-maximize-number-of-subsequences-in-a-string) |
 | [2222-number-of-ways-to-select-buildings](https://github.com/Dummy-Bug/LeetCode/tree/master/2222-number-of-ways-to-select-buildings) |
 | [2536-increment-submatrices-by-one](https://github.com/Dummy-Bug/LeetCode/tree/master/2536-increment-submatrices-by-one) |
