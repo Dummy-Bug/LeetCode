@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3603-minimum-cost-path-with-alternating-directions-ii](https://github.com/Dummy-Bug/LeetCode/tree/master/3603-minimum-cost-path-with-alternating-directions-ii) |
 | [3638-maximum-balanced-shipments](https://github.com/Dummy-Bug/LeetCode/tree/master/3638-maximum-balanced-shipments) |
 | [3679-minimum-discards-to-balance-inventory](https://github.com/Dummy-Bug/LeetCode/tree/master/3679-minimum-discards-to-balance-inventory) |
+| [3693-climbing-stairs-ii](https://github.com/Dummy-Bug/LeetCode/tree/master/3693-climbing-stairs-ii) |
 | [3698-split-array-with-minimum-difference](https://github.com/Dummy-Bug/LeetCode/tree/master/3698-split-array-with-minimum-difference) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Dummy-Bug/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3719-longest-balanced-subarray-i](https://github.com/Dummy-Bug/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3393-count-paths-with-the-given-xor-value](https://github.com/Dummy-Bug/LeetCode/tree/master/3393-count-paths-with-the-given-xor-value) |
 | [3603-minimum-cost-path-with-alternating-directions-ii](https://github.com/Dummy-Bug/LeetCode/tree/master/3603-minimum-cost-path-with-alternating-directions-ii) |
 | [3638-maximum-balanced-shipments](https://github.com/Dummy-Bug/LeetCode/tree/master/3638-maximum-balanced-shipments) |
+| [3693-climbing-stairs-ii](https://github.com/Dummy-Bug/LeetCode/tree/master/3693-climbing-stairs-ii) |
 | [3747-count-distinct-integers-after-removing-zeros](https://github.com/Dummy-Bug/LeetCode/tree/master/3747-count-distinct-integers-after-removing-zeros) |
 | [3840-house-robber-v](https://github.com/Dummy-Bug/LeetCode/tree/master/3840-house-robber-v) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/Dummy-Bug/LeetCode/tree/master/3877-minimum-removals-to-achieve-target-xor) |
