@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2145-count-the-hidden-sequences](https://github.com/Dummy-Bug/LeetCode/tree/master/2145-count-the-hidden-sequences) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Dummy-Bug/LeetCode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/Dummy-Bug/LeetCode/tree/master/2208-minimum-operations-to-halve-array-sum) |
+| [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Dummy-Bug/LeetCode/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2233-maximum-product-after-k-increments](https://github.com/Dummy-Bug/LeetCode/tree/master/2233-maximum-product-after-k-increments) |
 | [2364-count-number-of-bad-pairs](https://github.com/Dummy-Bug/LeetCode/tree/master/2364-count-number-of-bad-pairs) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Dummy-Bug/LeetCode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2007-find-original-array-from-doubled-array](https://github.com/Dummy-Bug/LeetCode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2207-maximize-number-of-subsequences-in-a-string](https://github.com/Dummy-Bug/LeetCode/tree/master/2207-maximize-number-of-subsequences-in-a-string) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/Dummy-Bug/LeetCode/tree/master/2208-minimum-operations-to-halve-array-sum) |
+| [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Dummy-Bug/LeetCode/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2233-maximum-product-after-k-increments](https://github.com/Dummy-Bug/LeetCode/tree/master/2233-maximum-product-after-k-increments) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Dummy-Bug/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2522-partition-string-into-substrings-with-values-at-most-k](https://github.com/Dummy-Bug/LeetCode/tree/master/2522-partition-string-into-substrings-with-values-at-most-k) |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Dummy-Bug/LeetCode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Dummy-Bug/LeetCode/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Dummy-Bug/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Dummy-Bug/LeetCode/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Dummy-Bug/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [3412-find-mirror-score-of-a-string](https://github.com/Dummy-Bug/LeetCode/tree/master/3412-find-mirror-score-of-a-string) |
 | [3638-maximum-balanced-shipments](https://github.com/Dummy-Bug/LeetCode/tree/master/3638-maximum-balanced-shipments) |
