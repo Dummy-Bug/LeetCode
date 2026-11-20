@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Dummy-Bug/LeetCode/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3132-find-the-integer-added-to-array-ii](https://github.com/Dummy-Bug/LeetCode/tree/master/3132-find-the-integer-added-to-array-ii) |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/Dummy-Bug/LeetCode/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
+| [3207-maximum-points-after-enemy-battles](https://github.com/Dummy-Bug/LeetCode/tree/master/3207-maximum-points-after-enemy-battles) |
 | [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/Dummy-Bug/LeetCode/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Dummy-Bug/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3290-maximum-multiplication-score](https://github.com/Dummy-Bug/LeetCode/tree/master/3290-maximum-multiplication-score) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2522-partition-string-into-substrings-with-values-at-most-k](https://github.com/Dummy-Bug/LeetCode/tree/master/2522-partition-string-into-substrings-with-values-at-most-k) |
 | [2592-maximize-greatness-of-an-array](https://github.com/Dummy-Bug/LeetCode/tree/master/2592-maximize-greatness-of-an-array) |
 | [2745-construct-the-longest-new-string](https://github.com/Dummy-Bug/LeetCode/tree/master/2745-construct-the-longest-new-string) |
+| [3207-maximum-points-after-enemy-battles](https://github.com/Dummy-Bug/LeetCode/tree/master/3207-maximum-points-after-enemy-battles) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Dummy-Bug/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3576-transform-array-to-all-equal-elements](https://github.com/Dummy-Bug/LeetCode/tree/master/3576-transform-array-to-all-equal-elements) |
 | [3638-maximum-balanced-shipments](https://github.com/Dummy-Bug/LeetCode/tree/master/3638-maximum-balanced-shipments) |
