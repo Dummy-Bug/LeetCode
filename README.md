@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/Dummy-Bug/LeetCode/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Dummy-Bug/LeetCode/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2233-maximum-product-after-k-increments](https://github.com/Dummy-Bug/LeetCode/tree/master/2233-maximum-product-after-k-increments) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Dummy-Bug/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2364-count-number-of-bad-pairs](https://github.com/Dummy-Bug/LeetCode/tree/master/2364-count-number-of-bad-pairs) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Dummy-Bug/LeetCode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2512-reward-top-k-students](https://github.com/Dummy-Bug/LeetCode/tree/master/2512-reward-top-k-students) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-groups-of-special-equivalent-strings](https://github.com/Dummy-Bug/LeetCode/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0969-pancake-sorting](https://github.com/Dummy-Bug/LeetCode/tree/master/0969-pancake-sorting) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Dummy-Bug/LeetCode/tree/master/2007-find-original-array-from-doubled-array) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Dummy-Bug/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2512-reward-top-k-students](https://github.com/Dummy-Bug/LeetCode/tree/master/2512-reward-top-k-students) |
 | [2592-maximize-greatness-of-an-array](https://github.com/Dummy-Bug/LeetCode/tree/master/2592-maximize-greatness-of-an-array) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Dummy-Bug/LeetCode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
@@ -535,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Dummy-Bug/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Dummy-Bug/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Dummy-Bug/LeetCode/tree/master/2187-minimum-time-to-complete-trips) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Dummy-Bug/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Dummy-Bug/LeetCode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2594-minimum-time-to-repair-cars](https://github.com/Dummy-Bug/LeetCode/tree/master/2594-minimum-time-to-repair-cars) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Dummy-Bug/LeetCode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
@@ -600,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-sentence-similarity-iii](https://github.com/Dummy-Bug/LeetCode/tree/master/1813-sentence-similarity-iii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Dummy-Bug/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Dummy-Bug/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Dummy-Bug/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/Dummy-Bug/LeetCode/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [2592-maximize-greatness-of-an-array](https://github.com/Dummy-Bug/LeetCode/tree/master/2592-maximize-greatness-of-an-array) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Dummy-Bug/LeetCode/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
