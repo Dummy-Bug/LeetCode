@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-decode-xored-array](https://github.com/Dummy-Bug/LeetCode/tree/master/1720-decode-xored-array) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/Dummy-Bug/LeetCode/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [1813-sentence-similarity-iii](https://github.com/Dummy-Bug/LeetCode/tree/master/1813-sentence-similarity-iii) |
+| [1829-maximum-xor-for-each-query](https://github.com/Dummy-Bug/LeetCode/tree/master/1829-maximum-xor-for-each-query) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Dummy-Bug/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1992-find-all-groups-of-farmland](https://github.com/Dummy-Bug/LeetCode/tree/master/1992-find-all-groups-of-farmland) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Dummy-Bug/LeetCode/tree/master/2007-find-original-array-from-doubled-array) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Dummy-Bug/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Dummy-Bug/LeetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1664-ways-to-make-a-fair-array](https://github.com/Dummy-Bug/LeetCode/tree/master/1664-ways-to-make-a-fair-array) |
+| [1829-maximum-xor-for-each-query](https://github.com/Dummy-Bug/LeetCode/tree/master/1829-maximum-xor-for-each-query) |
 | [2145-count-the-hidden-sequences](https://github.com/Dummy-Bug/LeetCode/tree/master/2145-count-the-hidden-sequences) |
 | [2207-maximize-number-of-subsequences-in-a-string](https://github.com/Dummy-Bug/LeetCode/tree/master/2207-maximize-number-of-subsequences-in-a-string) |
 | [2222-number-of-ways-to-select-buildings](https://github.com/Dummy-Bug/LeetCode/tree/master/2222-number-of-ways-to-select-buildings) |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1310-xor-queries-of-a-subarray](https://github.com/Dummy-Bug/LeetCode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Dummy-Bug/LeetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1720-decode-xored-array](https://github.com/Dummy-Bug/LeetCode/tree/master/1720-decode-xored-array) |
+| [1829-maximum-xor-for-each-query](https://github.com/Dummy-Bug/LeetCode/tree/master/1829-maximum-xor-for-each-query) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Dummy-Bug/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2546-apply-bitwise-operations-to-make-strings-equal](https://github.com/Dummy-Bug/LeetCode/tree/master/2546-apply-bitwise-operations-to-make-strings-equal) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/Dummy-Bug/LeetCode/tree/master/2588-count-the-number-of-beautiful-subarrays) |
