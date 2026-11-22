@@ -392,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Dummy-Bug/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Dummy-Bug/LeetCode/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/Dummy-Bug/LeetCode/tree/master/0394-decode-string) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Dummy-Bug/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Dummy-Bug/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Divide and Conquer
 |  |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0461-hamming-distance](https://github.com/Dummy-Bug/LeetCode/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/Dummy-Bug/LeetCode/tree/master/0476-number-complement) |
 | [0477-total-hamming-distance](https://github.com/Dummy-Bug/LeetCode/tree/master/0477-total-hamming-distance) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Dummy-Bug/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Dummy-Bug/LeetCode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Dummy-Bug/LeetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1720-decode-xored-array](https://github.com/Dummy-Bug/LeetCode/tree/master/1720-decode-xored-array) |
@@ -519,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Dummy-Bug/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Dummy-Bug/LeetCode/tree/master/0342-power-of-four) |
 | [0477-total-hamming-distance](https://github.com/Dummy-Bug/LeetCode/tree/master/0477-total-hamming-distance) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Dummy-Bug/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0877-stone-game](https://github.com/Dummy-Bug/LeetCode/tree/master/0877-stone-game) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Dummy-Bug/LeetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/Dummy-Bug/LeetCode/tree/master/1573-number-of-ways-to-split-a-string) |
