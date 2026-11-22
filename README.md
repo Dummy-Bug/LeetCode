@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1992-find-all-groups-of-farmland](https://github.com/Dummy-Bug/LeetCode/tree/master/1992-find-all-groups-of-farmland) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Dummy-Bug/LeetCode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Dummy-Bug/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Dummy-Bug/LeetCode/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2145-count-the-hidden-sequences](https://github.com/Dummy-Bug/LeetCode/tree/master/2145-count-the-hidden-sequences) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Dummy-Bug/LeetCode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/Dummy-Bug/LeetCode/tree/master/2208-minimum-operations-to-halve-array-sum) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/Dummy-Bug/LeetCode/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/Dummy-Bug/LeetCode/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Dummy-Bug/LeetCode/tree/master/2007-find-original-array-from-doubled-array) |
+| [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Dummy-Bug/LeetCode/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2364-count-number-of-bad-pairs](https://github.com/Dummy-Bug/LeetCode/tree/master/2364-count-number-of-bad-pairs) |
 | [2512-reward-top-k-students](https://github.com/Dummy-Bug/LeetCode/tree/master/2512-reward-top-k-students) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/Dummy-Bug/LeetCode/tree/master/2588-count-the-number-of-beautiful-subarrays) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1673-find-the-most-competitive-subsequence](https://github.com/Dummy-Bug/LeetCode/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Dummy-Bug/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Dummy-Bug/LeetCode/tree/master/2007-find-original-array-from-doubled-array) |
+| [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Dummy-Bug/LeetCode/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2207-maximize-number-of-subsequences-in-a-string](https://github.com/Dummy-Bug/LeetCode/tree/master/2207-maximize-number-of-subsequences-in-a-string) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/Dummy-Bug/LeetCode/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Dummy-Bug/LeetCode/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-sentence-similarity-iii](https://github.com/Dummy-Bug/LeetCode/tree/master/1813-sentence-similarity-iii) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/Dummy-Bug/LeetCode/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Dummy-Bug/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Dummy-Bug/LeetCode/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2207-maximize-number-of-subsequences-in-a-string](https://github.com/Dummy-Bug/LeetCode/tree/master/2207-maximize-number-of-subsequences-in-a-string) |
 | [2222-number-of-ways-to-select-buildings](https://github.com/Dummy-Bug/LeetCode/tree/master/2222-number-of-ways-to-select-buildings) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/Dummy-Bug/LeetCode/tree/master/2337-move-pieces-to-obtain-a-string) |
@@ -363,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1400-construct-k-palindrome-strings](https://github.com/Dummy-Bug/LeetCode/tree/master/1400-construct-k-palindrome-strings) |
+| [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Dummy-Bug/LeetCode/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2364-count-number-of-bad-pairs](https://github.com/Dummy-Bug/LeetCode/tree/master/2364-count-number-of-bad-pairs) |
 | [3137-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/Dummy-Bug/LeetCode/tree/master/3137-minimum-number-of-operations-to-make-word-k-periodic) |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/Dummy-Bug/LeetCode/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
