@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Dummy-Bug/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Dummy-Bug/LeetCode/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2207-maximize-number-of-subsequences-in-a-string](https://github.com/Dummy-Bug/LeetCode/tree/master/2207-maximize-number-of-subsequences-in-a-string) |
+| [2211-count-collisions-on-a-road](https://github.com/Dummy-Bug/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2222-number-of-ways-to-select-buildings](https://github.com/Dummy-Bug/LeetCode/tree/master/2222-number-of-ways-to-select-buildings) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/Dummy-Bug/LeetCode/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Dummy-Bug/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Dummy-Bug/LeetCode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Dummy-Bug/LeetCode/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Dummy-Bug/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2211-count-collisions-on-a-road](https://github.com/Dummy-Bug/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Dummy-Bug/LeetCode/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Dummy-Bug/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [3412-find-mirror-score-of-a-string](https://github.com/Dummy-Bug/LeetCode/tree/master/3412-find-mirror-score-of-a-string) |
@@ -607,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Dummy-Bug/LeetCode/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/Dummy-Bug/LeetCode/tree/master/0735-asteroid-collision) |
+| [2211-count-collisions-on-a-road](https://github.com/Dummy-Bug/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [3412-find-mirror-score-of-a-string](https://github.com/Dummy-Bug/LeetCode/tree/master/3412-find-mirror-score-of-a-string) |
 | [3679-minimum-discards-to-balance-inventory](https://github.com/Dummy-Bug/LeetCode/tree/master/3679-minimum-discards-to-balance-inventory) |
 ## Two Pointers
