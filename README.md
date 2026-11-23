@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2594-minimum-time-to-repair-cars](https://github.com/Dummy-Bug/LeetCode/tree/master/2594-minimum-time-to-repair-cars) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/Dummy-Bug/LeetCode/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/Dummy-Bug/LeetCode/tree/master/2750-ways-to-split-array-into-good-subarrays) |
+| [2765-longest-alternating-subarray](https://github.com/Dummy-Bug/LeetCode/tree/master/2765-longest-alternating-subarray) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Dummy-Bug/LeetCode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2874-maximum-value-of-an-ordered-triplet-ii](https://github.com/Dummy-Bug/LeetCode/tree/master/2874-maximum-value-of-an-ordered-triplet-ii) |
 | [2909-minimum-sum-of-mountain-triplets-ii](https://github.com/Dummy-Bug/LeetCode/tree/master/2909-minimum-sum-of-mountain-triplets-ii) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Dummy-Bug/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [2765-longest-alternating-subarray](https://github.com/Dummy-Bug/LeetCode/tree/master/2765-longest-alternating-subarray) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/Dummy-Bug/LeetCode/tree/master/2844-minimum-operations-to-make-a-special-number) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Dummy-Bug/LeetCode/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [3132-find-the-integer-added-to-array-ii](https://github.com/Dummy-Bug/LeetCode/tree/master/3132-find-the-integer-added-to-array-ii) |
