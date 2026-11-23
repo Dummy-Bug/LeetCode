@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/Dummy-Bug/LeetCode/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [1992-find-all-groups-of-farmland](https://github.com/Dummy-Bug/LeetCode/tree/master/1992-find-all-groups-of-farmland) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Dummy-Bug/LeetCode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
+| [3249-count-the-number-of-good-nodes](https://github.com/Dummy-Bug/LeetCode/tree/master/3249-count-the-number-of-good-nodes) |
 | [3493-properties-graph](https://github.com/Dummy-Bug/LeetCode/tree/master/3493-properties-graph) |
 | [3528-unit-conversion-i](https://github.com/Dummy-Bug/LeetCode/tree/master/3528-unit-conversion-i) |
 ## Breadth-First Search
@@ -663,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Dummy-Bug/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Dummy-Bug/LeetCode/tree/master/1376-time-needed-to-inform-all-employees) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Dummy-Bug/LeetCode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
+| [3249-count-the-number-of-good-nodes](https://github.com/Dummy-Bug/LeetCode/tree/master/3249-count-the-number-of-good-nodes) |
 | [3820-pythagorean-distance-nodes-in-a-tree](https://github.com/Dummy-Bug/LeetCode/tree/master/3820-pythagorean-distance-nodes-in-a-tree) |
 ## Combinatorics
 |  |
