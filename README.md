@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Dummy-Bug/LeetCode/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/Dummy-Bug/LeetCode/tree/master/0740-delete-and-earn) |
 | [0809-expressive-words](https://github.com/Dummy-Bug/LeetCode/tree/master/0809-expressive-words) |
+| [0822-card-flipping-game](https://github.com/Dummy-Bug/LeetCode/tree/master/0822-card-flipping-game) |
 | [0853-car-fleet](https://github.com/Dummy-Bug/LeetCode/tree/master/0853-car-fleet) |
 | [0870-advantage-shuffle](https://github.com/Dummy-Bug/LeetCode/tree/master/0870-advantage-shuffle) |
 | [0875-koko-eating-bananas](https://github.com/Dummy-Bug/LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Dummy-Bug/LeetCode/tree/master/0001-two-sum) |
 | [0740-delete-and-earn](https://github.com/Dummy-Bug/LeetCode/tree/master/0740-delete-and-earn) |
+| [0822-card-flipping-game](https://github.com/Dummy-Bug/LeetCode/tree/master/0822-card-flipping-game) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Dummy-Bug/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/Dummy-Bug/LeetCode/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0930-binary-subarrays-with-sum](https://github.com/Dummy-Bug/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
