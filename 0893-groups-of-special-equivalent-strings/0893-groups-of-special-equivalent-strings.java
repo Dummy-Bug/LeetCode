@@ -1,38 +1,7 @@
 class Solution {
-
-    private String merge(char[] even, char [] odd){
-
-        StringBuilder sb = new StringBuilder();
-        
-        int m = even.length;
-        int n = odd.length;
-
-        int i = 0;
-        int j = 0;
-
-        int length = 0;
-
-        while (length < m + n){
-            
-            if ((length&1) == 1){
-                sb.append(odd[j]);
-                j++;
-            }
-            else{
-               sb.append(even[i]);
-               i++;
-            }
-            length++;
-        }
-       
-        return sb.toString();
-    }
-
     public int numSpecialEquivGroups(String[] words) {
         
-        int n = words.length;
         Set<String> set = new HashSet<>();
-        int count = 0;
 
         for (String word : words){
 
@@ -41,26 +10,31 @@ class Solution {
 
             for (int i = 0; i < word.length(); i++){
 
+                char ch = word.charAt(i);
+
                 if ((i&1) == 1){
-                    odd.append(word.charAt(i));
+                    odd.append(ch);
                 }
-                else {
-                    even.append(word.charAt(i));
+                else{
+                    even.append(ch);
                 }
-                System.out.println(even.length() + "_" + odd.length());
             }
 
-            char [] oddChars = odd.toString().toCharArray();
-            Arrays.sort(oddChars);
+            char [] evenChar = even.toString().toCharArray();
+            char [] oddChar = odd.toString().toCharArray();
 
-            char [] evenChars = even.toString().toCharArray();
-            Arrays.sort(evenChars);
+            Arrays.sort(evenChar);
+            Arrays.sort(oddChar);
 
-            String normalizedWord = merge(evenChars,oddChars);
-            if (set.add(normalizedWord)){
-                count++;
-            }
+            String evenString = new String(evenChar);
+            String oddString = new String(oddChar);
+
+            String joined = evenString + oddString;
+
+            set.add(joined);
+
         }
-        return count;
+
+        return set.size();
     }
 }
