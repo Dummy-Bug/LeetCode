@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Dummy-Bug/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0744-network-delay-time](https://github.com/Dummy-Bug/LeetCode/tree/master/0744-network-delay-time) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Dummy-Bug/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1034-coloring-a-border](https://github.com/Dummy-Bug/LeetCode/tree/master/1034-coloring-a-border) |
 | [1300-critical-connections-in-a-network](https://github.com/Dummy-Bug/LeetCode/tree/master/1300-critical-connections-in-a-network) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Dummy-Bug/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Dummy-Bug/LeetCode/tree/master/1376-time-needed-to-inform-all-employees) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Dummy-Bug/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0744-network-delay-time](https://github.com/Dummy-Bug/LeetCode/tree/master/0744-network-delay-time) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Dummy-Bug/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1034-coloring-a-border](https://github.com/Dummy-Bug/LeetCode/tree/master/1034-coloring-a-border) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Dummy-Bug/LeetCode/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1992-find-all-groups-of-farmland](https://github.com/Dummy-Bug/LeetCode/tree/master/1992-find-all-groups-of-farmland) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/Dummy-Bug/LeetCode/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Dummy-Bug/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Dummy-Bug/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Dummy-Bug/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
+| [1034-coloring-a-border](https://github.com/Dummy-Bug/LeetCode/tree/master/1034-coloring-a-border) |
 | [1109-corporate-flight-bookings](https://github.com/Dummy-Bug/LeetCode/tree/master/1109-corporate-flight-bookings) |
 | [1144-decrease-elements-to-make-array-zigzag](https://github.com/Dummy-Bug/LeetCode/tree/master/1144-decrease-elements-to-make-array-zigzag) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Dummy-Bug/LeetCode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
@@ -652,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Dummy-Bug/LeetCode/tree/master/0063-unique-paths-ii) |
+| [1034-coloring-a-border](https://github.com/Dummy-Bug/LeetCode/tree/master/1034-coloring-a-border) |
 | [1992-find-all-groups-of-farmland](https://github.com/Dummy-Bug/LeetCode/tree/master/1992-find-all-groups-of-farmland) |
 | [2536-increment-submatrices-by-one](https://github.com/Dummy-Bug/LeetCode/tree/master/2536-increment-submatrices-by-one) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/Dummy-Bug/LeetCode/tree/master/2684-maximum-number-of-moves-in-a-grid) |
